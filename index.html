@@ -20,25 +20,51 @@ title: Bit Byte Yum
 </div>
 
 <script type="text/javascript" charset="utf-8">
-    var playfulColors = ['#abcdef','#b4ee9b','#dc96eb','#ead39b']
+    var playfulColors = ['#abcdef','#b4ee9b','#dc96eb','#ead39b'];
+    var pageBuildSpeed = 1000; //in ms
     var randomIntegerBetween = function(lowest,highest){
         return (Math.ceil(Math.random()*100) % (highest-lowest+1)) + lowest;
     }
+    var plafulColors = function(elment,timeToComplete){
+        $(elment).animate({
+            color: playfulColors[randomIntegerBetween(0,playfulColors.length-1)],
+            opacity: (randomIntegerBetween(50,100)/100.0), 
+        },timeToComplete, 'ease-in-out')
+    }
     var playfulize = function(elment,duration){
-        // var index = (Math.floor(Math.random()*10)) % playfulColors.length;
         var index = randomIntegerBetween(0,playfulColors.length-1)
         $(elment).animate({
           margin:'0',
           opacity: (randomIntegerBetween(50,100)/100.0), 
           color: playfulColors[index],
-          rotateZ: randomIntegerBetween(-10,10) + 'deg', 
+          // margin:randomIntegerBetween(-10,0),
+          rotateZ: randomIntegerBetween(-5,5) + 'deg',
+          // translateX: Math.random()
+          // font_size: randomIntegerBetween(160,200)+'px'
         },duration, 'ease-in-out');
     }
-    $("#bit,#byte,#yum").each(function(index,el){
-        playfulize(el,2000);
-        var interval = setInterval(function(){
-            playfulize(el,5000);
-        },7000);
-    })
     
+    setTimeout(function(){
+    $("#logo").animate({
+        height:'500px'
+        },2000,'ease-out');
+    },pageBuildSpeed);    
+    
+    $("#footer").animate({
+        opacity: 100
+    },pageBuildSpeed,'ease-in');
+    
+    setTimeout(function(){
+        $("#bit,#byte,#yum").each(function(index,el){
+            playfulize(el,1800);
+            var timingForThisWord = randomIntegerBetween(4000,10000);
+            var interval = setInterval(function(){
+                playfulize(el,timingForThisWord);
+            },timingForThisWord+200);
+        });
+    },pageBuildSpeed+1500);
+
+
+
+
 </script>

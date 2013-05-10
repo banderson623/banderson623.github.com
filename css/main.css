@@ -69,6 +69,12 @@ table {
     text-align:center;
 }
 
+#home #logo {
+    padding-top:50px;
+    height:0;
+    /*It will get animated to 500px*/
+    overflow:hidden;
+}
 #home #logo h1{
 /*    margin:auto;*/
     font: 200px "Love Potion", Helvetica, Arial, sans-serif;
@@ -76,6 +82,8 @@ table {
     margin:0;
     line-height:75%;
     opacity:0.0;
+    perspective: 500;
+    
 }
 
 #home #logo h1#bit {margin-left:200px;}
@@ -133,27 +141,26 @@ table {
   color: #aaa;
 }
 
-.site footer {
-    color: #76d7f5;
-    color:#4e8ea1;
+.site #footer {
     color:#999;
-  margin-top: 2em;
-  overflow: hidden;
+    margin-top: 2em;
+    overflow: hidden;
+    opacity:0.0;
 }
 
-.site footer .contact {
+.site #footer .contact {
   margin-right: 3em;
   text-align:center;
 }
 
 
-.site footer .rss {
+.site #footer .rss {
   margin-top: 1.1em;
   margin-right: -.2em;
   float: right;
 }
 
-.site footer .rss img {
+.site #footer .rss img {
   border: 0;
 }
 
