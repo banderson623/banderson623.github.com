@@ -145,7 +145,7 @@ table {
     color:#999;
     margin-top: 2em;
     overflow: hidden;
-    opacity:0.0;
+/*    opacity:0.0;*/
 }
 
 .site #footer .contact {
