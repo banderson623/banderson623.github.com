@@ -40,10 +40,10 @@ title: Bit Byte Yum
           rotateZ: randomIntegerBetween(-5,5) + 'deg',
         },duration, 'ease-in-out');
     }
-    // $.os.phone = true;
+    $.os.phone = true;
     if($.os.phone){
         // playfulize($("#bit,#byte,#yum"),10);
-        $("#logo").css('height','500px');
+        $("#logo").css({'height':'auto','overflow':'visible'});
         $("#bit,#byte,#yum").each(function(index,el){
             $(el).css({'opacity':1,
                        margin:0,
