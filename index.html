@@ -27,12 +27,11 @@ title: Bit Byte Yum
     var playfulize = function(elment,duration){
         // var index = (Math.floor(Math.random()*10)) % playfulColors.length;
         var index = randomIntegerBetween(0,playfulColors.length-1)
-        console.log(index,playfulColors[index]);
         $(elment).animate({
           margin:'0',
           opacity: (randomIntegerBetween(50,100)/100.0), 
           color: playfulColors[index],
-          rotateZ: randomIntegerBetween(-20,20) + 'deg', 
+          rotateZ: randomIntegerBetween(-10,10) + 'deg', 
         },duration, 'ease-in-out');
     }
     $("#bit,#byte,#yum").each(function(index,el){
