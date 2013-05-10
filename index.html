@@ -50,12 +50,12 @@ title: Bit Byte Yum
             height:'500px'
         },2000,'ease-out');
     },pageBuildSpeed);    
-    
-    // $("#footer").animate({
-    //     opacity: 100
-    // },pageBuildSpeed,'ease-in');
+
     
     setTimeout(function(){
+        if($.os.phone){
+            playfulize(el,10);
+        }
         $("#bit,#byte,#yum").each(function(index,el){
             playfulize(el,1800);
             var timingForThisWord = randomIntegerBetween(4000,10000);
