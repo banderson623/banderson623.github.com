@@ -37,34 +37,38 @@ title: Bit Byte Yum
           margin:'0',
           opacity: (randomIntegerBetween(50,100)/100.0), 
           color: playfulColors[index],
-          // margin:randomIntegerBetween(-10,0),
           rotateZ: randomIntegerBetween(-5,5) + 'deg',
-          // translateX: Math.random()
-          // font_size: randomIntegerBetween(160,200)+'px'
         },duration, 'ease-in-out');
     }
-    
-    
-    setTimeout(function(){
-        $("#logo").animate({
-            height:'500px'
-        },2000,'ease-out');
-    },pageBuildSpeed);    
-
-    
-    setTimeout(function(){
-        if($.os.phone){
-            playfulize(el,10);
-        }
+    // $.os.phone = true;
+    if($.os.phone){
+        // playfulize($("#bit,#byte,#yum"),10);
+        $("#logo").css('height','500px');
         $("#bit,#byte,#yum").each(function(index,el){
-            playfulize(el,1800);
-            var timingForThisWord = randomIntegerBetween(4000,10000);
-            var interval = setInterval(function(){
-                playfulize(el,timingForThisWord);
-            },timingForThisWord+200);
+            $(el).css({'opacity':1,
+                       margin:0,
+                       color:playfulColors[randomIntegerBetween(0,playfulColors.length-1)],
+                       '-webkit-transform':"rotateZ("+randomIntegerBetween(-5,5)+'deg)'
+                      }); 
         });
-    },pageBuildSpeed+1500);
+    } else {
+        setTimeout(function(){
+            $("#logo").animate({
+                height:'500px'
+            },2000,'ease-out');
+        },pageBuildSpeed);    
 
+    
+        setTimeout(function(){
+            $("#bit,#byte,#yum").each(function(index,el){
+                playfulize(el,1800);
+                var timingForThisWord = randomIntegerBetween(4000,10000);
+                var interval = setInterval(function(){
+                    playfulize(el,timingForThisWord);
+                },timingForThisWord+200);
+            });
+        },pageBuildSpeed+1500);
+    }
 
 
 
