@@ -70,10 +70,17 @@ table {
 }
 
 #home #logo h1{
-    margin:auto;
+/*    margin:auto;*/
     font: 200px "Love Potion", Helvetica, Arial, sans-serif;
     letter-spacing:-0.05em;
+    margin:0;
+    line-height:75%;
+    opacity:0.0;
 }
+
+#home #logo h1#bit {margin-left:200px;}
+#home #logo h1#byte {margin-left:-200px;}
+#home #logo h1#yum {margin-bottom:-200px;}
 
 .site #home .lead_in {
     font-weight:normal;
