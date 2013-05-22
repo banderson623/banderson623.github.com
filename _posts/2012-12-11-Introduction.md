@@ -1,7 +1,8 @@
 ---
-layout: default
-title: introduction to this Series
+layout: post
+title: Thoughts on Education
 Date: 2012-12-11
+categories: education philosophy
 --- 
 
 # Educating
