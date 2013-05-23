@@ -290,6 +290,15 @@ p.other_posts {
 
 ul.other_posts {
     list-style:none;
+}
+
+.other_posts .small_date,
+.other_posts .long_date {
+    color:#ccc;
+}
+
+.other_posts .small_date  {
+    display:none;
 }    
 
 @media (max-width: 400px) {
@@ -317,6 +326,13 @@ ul.other_posts {
     #post h1,
     #post h2 {
         text-align:center;
+    }
+    
+    .other_posts .small_date {
+        display:inline;
+    }
+    .other_posts .long_date {
+        display:none;
     }
     
 }
