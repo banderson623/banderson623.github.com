@@ -287,6 +287,7 @@ table {
 }
 
 
+
 .other_posts {
     margin:0;
     color:#999;
@@ -310,6 +311,24 @@ ul.other_posts {
 .other_posts .small_date  {
     display:none;
 }    
+
+
+
+#post.resume img{
+    margin-top:2em;
+}
+
+
+.callout {
+    background-color:#fffde7;
+/*    border-top:1px solid #fffacc;*/
+/*    border-bottom:1px solid #fffacc;*/
+/*    text-align:center;*/
+    padding:5px 20px;
+    margin:-5px -20px;
+}
+
+
 
 @media (max-width: 400px) {
     #post blockquote {

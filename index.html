@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Bit Byte Yum
+title: BitByteYum - Brian Anderson
 ---
 
 <div id="home">
@@ -24,18 +24,19 @@ title: Bit Byte Yum
     <div class="contact">
       <p>I am 
         <a href="mailto:Brian@BitByteYum.com">Brian Anderson</a> and can be found at 
-         and 
         <a href="http://twitter.com/banderson623/">twitter</a>, 
         <a href="http://github.com/banderson623/">github</a> and
-        <a href="http://www.linkedin.com/in/banderson623">linkedIn</a>.
+        <a href="http://www.linkedin.com/in/banderson623">linkedIn</a>; or view my
+        <a href="/resume/">resume</a>.
       </p>
     </div>
   
   <p class="latest_posts">Recent Articles: 
     {% for post in site.posts limit:3 %}
-      <a href="{{ post.url }}">{{ post.title }}</a>{% if forloop.last %}{% else %},{% endif %}
+      <a href="{{ post.url }}">{{ post.title }}</a>, 
     {% endfor %}
-  </p>
+    <a href="/articles/">...more</a>
+ </p>
 </div>
 
 <script type="text/javascript" charset="utf-8">
