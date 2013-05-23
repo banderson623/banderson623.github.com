@@ -32,6 +32,7 @@ body {
   background-color: #ffffff;
   font: 16px "proxima-nova", Helvetica, Arial, sans-serif;
   text-align: center;
+  margin:20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -58,7 +59,6 @@ table {
     text-align:center;
 }
 
-
 #home #logo {
     height:150px;
     position:relative;
@@ -76,7 +76,6 @@ table {
     opacity:0.3;
     height:100px;
     width:100px;
-
     height:0;
     width:0;
     z-index:1;
@@ -99,15 +98,10 @@ table {
     opacity:1;
     color:#7EA8F3;
     color:#fff;
-/*    display:inline;*/
     float:left;
     z-index:10;
 }
 
-/*#home #logo h1#bit {margin-left:200px;}
-#home #logo h1#byte {margin-left:-200px;}
-#home #logo h1#yum {margin-bottom:-200px;}
-*/
 .site #home .lead_in {
     font-family: "proxima-nova-alt-ext-cond", "proxima-nova", helvetica, arial, sans-serif;
     font-weight:normal;
@@ -126,7 +120,6 @@ table {
   text-align: left;
   margin: 3em auto 2em;
   line-height: 1.5em;
-  max-width:1024px;
 }
 
 .site .header {
@@ -162,8 +155,12 @@ table {
   color: #000;
 }
 
+
 .site .meta {
   color: #aaa;
+  margin-top:0;
+  text-align:center;
+  font-weight:normal;
 }
 
 .site #footer,
@@ -202,6 +199,18 @@ table {
     line-height:24pt;
 }
 
+#post .post_title {
+    margin-bottom:0;
+}
+
+#post img {
+}
+
+#post img.centered {
+    margin:10px auto;
+    display:block;    
+}
+
 #post p, #post li, #post a {
 /*    letter-spacing: -0.1em;*/
 }
@@ -215,6 +224,7 @@ table {
 #post h2 {
     font-family: "proxima-nova-alt-ext-cond", "proxima-nova", helvetica, arial, sans-serif;
     text-transform:uppercase;
+    text-align:center;
 }
 
 #post h1{
@@ -302,16 +312,6 @@ ul.other_posts {
 }    
 
 @media (max-width: 400px) {
-    .site {
-        margin:20px;
-        width:auto;
-        max-width:auto;
-    }
-    
-/*    #home #logo {
-        display:none;
-    }
-*/    
     #post blockquote {
         border:0;
         padding:10px;
@@ -323,11 +323,6 @@ ul.other_posts {
         margin: 3px;
     }
     
-    #post h1,
-    #post h2 {
-        text-align:center;
-    }
-    
     .other_posts .small_date {
         display:inline;
     }
@@ -336,16 +331,18 @@ ul.other_posts {
     }
     
 }
-@media (max-width: 1023px) {
+@media (max-width: 899px) {
     .site {
-        margin:20px;
         width:auto;
-        max-width:auto;
+        max-width:100%;
     }
-
 }
 
-@media (min-width:1024px){
+@media (min-width:900px){
+    .site {
+        max-width:900px;
+    }
+    
     #post ul {
         margin-left:-0.25em;
     }

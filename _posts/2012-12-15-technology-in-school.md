@@ -5,8 +5,6 @@ Date: 2012-12-15
 categories: articles
 tags: education philosophy
 --- 
-
-# Technology in School
     
 Recently I was invited on to [our local school](http://gilbert.k12.ia.us/index)'s *District Advisory Committee.* The goal of this group is to discuss upcoming changes with a subset of the parents. They have two sets of parents from each grade participating on the committee.[^1] 
 
