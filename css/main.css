@@ -58,33 +58,62 @@ table {
     text-align:center;
 }
 
+
 #home #logo {
-    padding-top:50px;
-    height:0;
-    /*It will get animated to 500px*/
-    overflow:hidden;
-}
-#home #logo h1{
-/*    margin:auto;*/
-    font: 200px "Love Potion", Helvetica, Arial, sans-serif;
-    letter-spacing:-0.05em;
-    margin:0;
-    line-height:75%;
-    opacity:0.0;    
+    height:150px;
+    position:relative;
 }
 
-#home #logo h1#bit {margin-left:200px;}
+#home #logo #circleContainer {
+    width:150px;
+    height:0px;
+    z-index:0;
+    margin:0 auto;
+    
+}
+#home #logo .circle{
+    background-color:#d8e2f3;
+    opacity:0.3;
+    height:100px;
+    width:100px;
+
+    height:0;
+    width:0;
+    z-index:1;
+    position:absolute;
+    border-radius:300px;
+}
+
+#home #logo #wordContainer {
+    position:relative;
+    z-index:10;
+    padding-top:50px;
+    width:100px;
+    margin:0 auto;
+}
+
+#home #logo h1{
+    font: 30pt "Love Potion", Helvetica, Arial, sans-serif;
+    letter-spacing:-0.05em;
+    line-height:75%;
+    opacity:1;
+    color:#7EA8F3;
+    color:#fff;
+/*    display:inline;*/
+    float:left;
+    z-index:10;
+}
+
+/*#home #logo h1#bit {margin-left:200px;}
 #home #logo h1#byte {margin-left:-200px;}
 #home #logo h1#yum {margin-bottom:-200px;}
-
+*/
 .site #home .lead_in {
     font-family: "proxima-nova-alt-ext-cond", "proxima-nova", helvetica, arial, sans-serif;
     font-weight:normal;
-    margin-top:2em;
     line-height:1em;
     font-size:40pt;
     text-transform:uppercase;
-/*    color:#999;*/
 }
 
 /*****************************************************************************/
@@ -254,10 +283,10 @@ table {
         max-width:auto;
     }
     
-    #home #logo {
+/*    #home #logo {
         display:none;
     }
-    
+*/    
     #post blockquote {
         border:0;
         padding:10px;
