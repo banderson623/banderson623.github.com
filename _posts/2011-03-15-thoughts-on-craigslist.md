@@ -6,7 +6,13 @@ categories: articles
 tags: journalism
 --- 
 
-Just "published" is [a chart about a section of classified ad revenue](http://www.businessinsider.com/chart-of-the-day-newspapers-classified-ads-revenue-2011-3). The article is a waste of time to read, here is the good stuff: 
+<br />
+# "A fundamental pillar of democracy is basically starving..."
+<br />
+
+
+
+Business Insider recently published [a chart showing the declining classified ad revenue](http://www.businessinsider.com/chart-of-the-day-newspapers-classified-ads-revenue-2011-3). The article is a waste of time to read, here is the good stuff: 
 
 >" He shows ad revenue from help wanted classifieds dropping 92% in last 10 years, hitting $723 million last year, down from $8.7 billion in 2000."
 
@@ -18,8 +24,6 @@ Some great quotes from the podcast:
 > Social deal with the newspapers, they ran a big ad agency and spent some of that money to do investigative journalism to make democracy work.
 
 > Advertising...has paid for that part of democracy, which is a shame.... but it is a fundamental part of democracy
-
-> A fundamental pillar of democracy is basically starving...
 
 >Craigslist is a Charitable benefit, of free classified ads... is less than optimal ( and has a bad outcome) ...  so instead of saying my charity is free advertising, he could charge a nominal amount and use that money toward a "worthy" cause. (Journalism)
 
