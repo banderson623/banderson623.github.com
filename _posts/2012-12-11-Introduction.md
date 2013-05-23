@@ -6,8 +6,6 @@ categories: articles
 tags: education philosophy
 --- 
 
-# Educating
-
 I am starting this series of articles to write my perspective[^1] on the state of *educating* in the United States. It may apply elsewhere, but this is my home and what I am familiar with.
 
 I am writing this as a student at Iowa State University. As a father of two elementary aged boys. As a person who wants to see my family have a positive impact in our town. I have a full time job writing software, for a company that has graciously helped me finish my college degree.
