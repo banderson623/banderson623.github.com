@@ -88,7 +88,7 @@ table {
     position:relative;
     z-index:10;
     padding-top:50px;
-    width:100px;
+    width:120px;
     margin:0 auto;
 }
 
@@ -276,6 +276,22 @@ table {
   background-color: #333;
 }
 
+
+.other_posts {
+    margin:0;
+    color:#999;
+    text-align:center;
+}
+
+p.other_posts {
+    margin-top:4em;
+    color:#666;
+}
+
+ul.other_posts {
+    list-style:none;
+}    
+
 @media (max-width: 400px) {
     .site {
         margin:20px;
@@ -296,6 +312,11 @@ table {
     #post blockquote p {
         padding:0px;
         margin: 3px;
+    }
+    
+    #post h1,
+    #post h2 {
+        text-align:center;
     }
     
 }

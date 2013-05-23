@@ -32,8 +32,8 @@ title: Bit Byte Yum
     </div>
   
   <p class="latest_posts">Recent Articles: 
-    {% for post in site.posts %}
-      <a href="{{ post.url }}">{{ post.title }}</a>, 
+    {% for post in site.posts limit:3 %}
+      <a href="{{ post.url }}">{{ post.title }}</a>{% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
   </p>
 </div>
@@ -68,7 +68,7 @@ title: Bit Byte Yum
 
     $(".circle").each(function(index,el){
         wiggle(el,3000);
-        var timing = randomIntegerBetween(4000,10000);
+        var timing = randomIntegerBetween(3000,10000);
         var interval = setInterval(function(){
             wiggle(el,timing);
         },timing+200);
