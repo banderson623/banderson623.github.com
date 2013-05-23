@@ -66,23 +66,22 @@ title: Bit Byte Yum
         },duration, 'ease-in-out');
     }
 
-    if(!($.os.phone)){    
-        $(".circle").each(function(index,el){
-            wiggle(el,3000);
-            var timing = randomIntegerBetween(4000,10000);
-            var interval = setInterval(function(){
-                wiggle(el,timing);
-            },timing+200);
-        });
-            $("#bit,#byte,#yum").each(function(index,el){
-                playfulize(el,1800);
-                var timingForThisWord = randomIntegerBetween(4000,10000);
-                var interval = setInterval(function(){
-                    playfulize(el,timingForThisWord);
-                },timingForThisWord+200);
-            });
+    $(".circle").each(function(index,el){
+        wiggle(el,3000);
+        var timing = randomIntegerBetween(4000,10000);
+        var interval = setInterval(function(){
+            wiggle(el,timing);
+        },timing+200);
+    });
 
-    }
+    $("#bit,#byte,#yum").each(function(index,el){
+        playfulize(el,1800);
+        var timingForThisWord = randomIntegerBetween(4000,10000);
+        var interval = setInterval(function(){
+            playfulize(el,timingForThisWord);
+        },timingForThisWord+200);
+    });
+
 
 
 
