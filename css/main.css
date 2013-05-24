@@ -118,24 +118,24 @@ table {
 
 .site {
   text-align: left;
-  margin: 3em auto 2em;
+  margin: 0em auto 2em;
   line-height: 1.5em;
 }
 
 .site .header {
-    border-bottom:1px solid grey;
+    margin-top:0;
+    border-bottom:1px solid #ccc;
     margin-bottom:10px;
-/*    padding-bottom:10px;*/
+    text-align:center;
 }
 
 .site .header a {
-  font-weight: bold;
+  font-weight: normal;
   text-decoration: none;
 }
 
 .site .header h1.title {
   display: inline-block;
-/*  margin-bottom: 2em;*/
 }
 
 .site .header h1.title a {
@@ -148,7 +148,7 @@ table {
 
 .site .header a.extra {
   color: #aaa;
-  margin-left: 1em;
+  margin-left: 0.5em;
 }
 
 .site .header a.extra:hover {
@@ -306,12 +306,20 @@ ul.other_posts {
 .other_posts .small_date,
 .other_posts .long_date {
     color:#ccc;
+    font-weight:normal;
 }
 
 .other_posts .small_date  {
     display:none;
 }    
 
+a.article_link {
+    text-decoration:none;
+}
+
+a.article_link:hover {
+    text-decoration:underline;
+}
 
 
 #post.resume img{
@@ -321,9 +329,6 @@ ul.other_posts {
 
 .callout {
     background-color:#fffde7;
-/*    border-top:1px solid #fffacc;*/
-/*    border-bottom:1px solid #fffacc;*/
-/*    text-align:center;*/
     padding:5px 20px;
     margin:-5px -20px;
 }
@@ -350,16 +355,16 @@ ul.other_posts {
     }
     
 }
-@media (max-width: 899px) {
+@media (max-width: 799px) {
     .site {
         width:auto;
         max-width:100%;
     }
 }
 
-@media (min-width:900px){
+@media (min-width:800px){
     .site {
-        max-width:900px;
+        max-width:800px;
     }
     
     #post ul {
