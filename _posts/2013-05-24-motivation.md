@@ -45,6 +45,7 @@ Becoming good (at anything) requires a lot of work[^2]. But if I want to have th
 
 These things take determination and discipline, even if you do get significant value out of writing software.
 
+...and of course these motivations play into things even more importantly than vocational tasks...
 
 [^1]: This is from an email interchange between me and a couple of friends. I was trying to understand what I wanted in a job.
 
