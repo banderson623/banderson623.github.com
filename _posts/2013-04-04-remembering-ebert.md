@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curious & Teachable
+title: Curious &amp; Teachable
 Date: 2013-04-04
 categories: articles
 tags: quote
