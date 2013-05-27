@@ -30,7 +30,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #ffffff;
-  font: 16px "proxima-nova", Helvetica, Arial, sans-serif;
+  font: 14px "proxima-nova", Helvetica, Arial, sans-serif;
   text-align: center;
   margin:20px;
 }
@@ -195,8 +195,8 @@ table {
 /*
 /*****************************************************************************/
 #post {
-    font-size:14pt;
-    line-height:24pt;
+    font-size:12pt;
+    line-height:20pt;
 }
 
 #post .post_title {
@@ -365,6 +365,11 @@ a.article_link:hover {
 @media (min-width:800px){
     .site {
         max-width:800px;
+    }
+    
+    #post {
+        font-size:14pt;
+        line-height:24pt;
     }
     
     #post ul {
