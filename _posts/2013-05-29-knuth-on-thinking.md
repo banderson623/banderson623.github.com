@@ -18,7 +18,7 @@ A Historical Accident:
 
 > I didn't choose to be a computer scientist because my main mission in life was to advance computation. I chose computer science simply because I was good at it. For some reason, my peculiar way of thinking correlated well with computers.
 
-Knuth continues on about abstraction and nonuniform structures
+Knuth continues on...
 
 > One of the main characteristics of a computer science mentality is the ability to jump very quickly between levels of abstraction, between a low level and a high level, almost unconsciously
 
