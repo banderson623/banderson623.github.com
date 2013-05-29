@@ -22,9 +22,9 @@ and Purpose. Now I am not sure that this is true for everyone, but I suspect tha
 
 ## Clarifying my Motivations
 
-Last year I went through a process with [SIMA International](http://www.simainternational.com/sima.cfm) to  identify my "Motivated Abilities." The results were fascinating. It helped refine how I think about my motivations. There was nothing that was shocking. 33 years of living has produced a rough understanding of who I am. I generally know what I am good at. Where I stink (and what areas of my life I still desperately need help). 
+Last year I went through a process with [SIMA International](http://www.simainternational.com/sima.cfm) to  identify my "Motivated Abilities." The results were fascinating. It helped refine how I think about my motivations. There was nothing that was shocking. After 33 years of living, I have a rough understanding of who I am. I generally know what I am good at and where I stink (and what areas of my life I still desperately need help). 
 
-The result of going through the SIMA process is the production of a Motivated Abilities Pattern (MAP). The MAP is a twenty-some page explanation of what motivates me. It was not produced my a computer program based on a multiple choice test. I had to write and talk about myself. I wrote a couple dozen pages about events that I found made me happy, from childhood to the present. I had an interview with a real human and shared the enjoyable moments of my life with them. (It was actually a lot of fun to do!)
+The result of going through the SIMA process is the production of a Motivated Abilities Pattern (MAP). The MAP is a twenty-some page explanation of what motivates me. It was not produced by a computer program or  multiple choice test. I had to write and talk about myself. I wrote a couple dozen pages about events that I found made me happy &mdash; from childhood to the present. I had an interview with a real human and shared the enjoyable moments of my life with them. (It was actually a lot of fun to do!)
 
 I might upload the full document, but for now I am going to post summaries of the three main motivators:
 
@@ -32,9 +32,9 @@ I might upload the full document, but for now I am going to post summaries of th
 
 2. "This ability is especially powerful when you act as a resource to others, providing the knowledge, products, expertise or support that they need. You are especially adept at **analyzing difficult problems and creatively applying your knowledge of systems and technology to solve those problems.**"
 
-3. "It should be pointed out that the creative, developmental side of your motivation is particularly powerful. You are strongly driven to **design** applications based on the things that you have learned."
+3. "It should be pointed out that the **creative**, developmental side of your motivation is particularly powerful. You are strongly driven to **design** applications based on the things that you have learned."
 
-Design is all over the place! Making difficult problems manageable, complex ideas comprehendible. 
+Design is all over the place. I enjoy attempting to make difficult problems manageable and complex ideas comprehendible. 
 
 ## None of this means that I am any good
 
@@ -45,10 +45,16 @@ Becoming good (at anything) requires a lot of work[^2]. But if I want to have th
 
 These things take determination and discipline, even if you do get significant value out of writing software.
 
-...and of course these motivations play into things even more importantly than vocational tasks...
+...and of course these motivations play into things even more important than career-oriented tasks...
+
+## Apprenticing
+_"a person who is learning a trade from a skilled employer."_
+
+I've been incredibly fortunate to have worked with great software developers and architects. Many who have taken a serious interest in my development. They have given me countless hours of coaching, modeling and encouragement. They have patiently reviewed my code, demanded perfection and stood by, hopefully, as a I stretched my programming-wings. Not only did they model the craft of writing software, they demonstrated the responsibility I have to pass this art on to others. _Thank you Ed, Erik, Hristo and Margaret!_
 
 [^1]: This is from an email interchange between me and a couple of friends. I was trying to understand what I wanted in a job.
 
 [^2]: [Expert Performance and Deliberate Practice](http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html) from which [Malcolm Gladwell coined his 10,000 hours](http://www.gladwell.com/outliers/outliers_excerpt1.html)
 
-[^3]: from the Whole Earth Catalog, referenced by Steve Jobs' 2005 Stanford Commencement speech. [Transcript](http://www.networkworld.com/community/print/82638) and [video](http://www.youtube.com/watch?v=VHWUCX6osgM)  "When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow named Stewart Brand not far from here in Menlo Park, and he brought it to life with his poetic touch. This was in the late 1960's, before personal computers and desktop publishing, so it was all made with typewriters, scissors, and polaroid cameras. It was sort of like Google in paperback form, 35 years before Google came along: it was idealistic, and overflowing with neat tools and great notions. Stewart and his team put out several issues of The Whole Earth Catalog, and then when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age. On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous. Beneath it were the words: "Stay Hungry. Stay Foolish. It was their farewell message as they signed off. Stay Hungry. Stay Foolish." [Full 
+[^3]: from the Whole Earth Catalog, referenced by Steve Jobs' 2005 Stanford Commencement speech. You can read the [Full transcript](http://www.networkworld.com/community/print/82638) and watch the [video](http://www.youtube.com/watch?v=VHWUCX6osgM). Here is a excerpt: 
+> "When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow named Stewart Brand not far from here in Menlo Park, and he brought it to life with his poetic touch. This was in the late 1960's, before personal computers and desktop publishing, so it was all made with typewriters, scissors, and polaroid cameras. It was sort of like Google in paperback form, 35 years before Google came along: it was idealistic, and overflowing with neat tools and great notions. Stewart and his team put out several issues of The Whole Earth Catalog, and then when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age. On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous. Beneath it were the words: "Stay Hungry. Stay Foolish. It was their farewell message as they signed off. Stay Hungry. Stay Foolish." [Full 
