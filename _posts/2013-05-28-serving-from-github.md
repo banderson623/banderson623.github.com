@@ -5,6 +5,7 @@ Date: 2013-05-28
 categories: articles
 tags: nerd
 --- 
+<img src="/images/posts/jekyll+github.png" class="centered can_shrink" alt="Jekyll and Github logos" width="450px"/>
 
 For various reasons, that I might write about later, I decided I needed a place to *live* on the web[^1]. I wanted a place to write about nerd topics, life, education, parenting, philosophy and other topics that interest me. I also wanted a place to write about some of my [dorky](https://github.com/banderson623) [half-baked](https://github.com/banderson623/KeynoteKeyFramer) [projects](https://github.com/banderson623/slideo). A friend of mine asked me how I am hosting this site, so I thought I would explain my setup.
 
@@ -16,10 +17,10 @@ It is easy to [install and get up and running](http://jekyllrb.com/docs/installa
 
 {% highlight bash %}
   ~ $ gem install jekyll
-  ~ $ jekyll new my-awesome-site
-  ~ $ cd my-awesome-site
-  ~/my-awesome-site $ jekyll serve
-  # => Now browse to http://localhost:4000
+  ~ $ jekyll new my-site
+  ~ $ cd my-site
+  ~/my-site $ jekyll serve
+  # => Open http://localhost:4000
 {% endhighlight %}
 
 They have fantastic [documentation](http://jekyllrb.com/docs/home/) that explains the directory structure, built in functions and configuration. 

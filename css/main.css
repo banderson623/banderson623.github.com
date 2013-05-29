@@ -219,7 +219,6 @@ table {
 /*    padding:0px 5px;*/
 }
 
-
 #post h1,
 #post h2 {
     font-family: "proxima-nova-alt-ext-cond", "proxima-nova", helvetica, arial, sans-serif;
@@ -252,9 +251,14 @@ table {
 
 /* standard */
 #post pre {
-  border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 .4em;
+  padding: 0 10px;
+}
+
+#post .highlight {
+    margin:0 -40px;
+    padding:0 20px;
+    overflow:scroll;
 }
 
 #post ul, #post ol {
@@ -347,6 +351,10 @@ a.article_link:hover {
         margin: 3px;
     }
     
+    #post img.can_shrink {
+        width:100%; !important
+    }
+    
     .other_posts .small_date {
         display:inline;
     }
@@ -371,7 +379,7 @@ a.article_link:hover {
         font-size:14pt;
         line-height:24pt;
     }
-    
+        
     #post ul {
         margin-left:-0.25em;
     }
