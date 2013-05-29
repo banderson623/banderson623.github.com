@@ -35,11 +35,13 @@ The basic steps are:
 3. Your newly created site will be available at <tt>http://&lt;your-github-username&gt;.github.io</tt> _(after you commit and push your code)_
 
 
-# Hosting from a Custom Domain
+# Custom Domain
 If you are hosting from a custom domain name[^3], you will need to configure your DNS records and add a CNAME file to your repository.
 
 1. You should have an A record pointing to <tt>204.232.175.78</tt> in your DNS configuration at your Domain registrar (or dns provider).
 2. Add a file named <tt>CNAME</tt> to the top level of your repository, with a single line containing the name of your custom domain. You can [view my CNAME file](https://github.com/banderson623/banderson623.github.com/blob/master/CNAME).
+
+
 
 # A few more things...
 
