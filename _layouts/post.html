@@ -6,13 +6,16 @@ layout: default
     <p class="meta">written on {{ page.date | date: "%B %d, %Y" }}</p>
     
     {{ content }}
+    
 </div>
 
 <p class="other_posts">Other Articles</p>
 <ul class="other_posts">
-  {% for p in site.posts %}
+  {% for p in site.related_posts limit:5 %}
       {% if p.url != page.url %}
         <li><a href="{{ p.url }}">{{ p.title }}</a><span class="small_date"> - {{p.date | date: "%b '%y" }}</span><span class="long_date"> - {{p.date | date: "%B %d, %Y" }}</span></li>
       {% endif %}
   {% endfor %}
+  <li><br /><a href="/articles/">View a list of all articles</a> &rarr;</li>
+  
 </ul>
