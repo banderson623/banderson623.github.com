@@ -291,6 +291,19 @@ table {
 }
 
 
+#post .footnotes p {
+    margin-bottom:0;
+}
+
+#post .footnotes ol li p a {
+    background-color:#ffffed;
+}
+
+#post .footnotes ol li a {
+    background-color:transparent;
+}
+
+
 
 .other_posts {
     margin:0;
@@ -386,4 +399,11 @@ a.article_link:hover {
     #post ul li {
         padding-left:0.25em;
     }
+    
+    #post .footnotes {
+        font-size:12pt;
+        line-height:18pt;
+    }
+
+    
 }
