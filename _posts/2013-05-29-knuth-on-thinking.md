@@ -8,7 +8,7 @@ tags: philosophy quote programming
 
 Someone asked [Donald Knuth](http://www-cs-faculty.stanford.edu/~uno/), who I've [quoted before](/articles/2013/03/15/art-of-programming-knuth/), why he uses the phrase: "A computer scientists perspective" and "How [he] distinguishes that from other points of view?"
 
-Knuth, while reflecting on rapid adoption of Computer Science programs across many universities in the 1960's, said:
+Knuth, while reflecting on the rapid adoption of Computer Science programs across many universities in the 1960's, said:
 
 > I'm convinced that computer science grew so fast and is vital today because there are people all over the world who have a peculiar way of thinking, a certain way of structuring knowledge in their heads, a mentality that we now associate with a discipline of its own. This mentality isn't sharply focused, in the space of all possible ways of thinking; but it's different enough from other ways &mdash; that the people who had it in the old days were scattered among many different departments, more or less orphans in their universities.
 
