@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creative Motivation
-Date: 2013-01-01
+Date: 2013-05-23
 categories: articles
 tags: philosophy
 --- 
