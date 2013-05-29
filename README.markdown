@@ -2,6 +2,8 @@
 
 This is the repository of Brian Anderson's [bitByteYum.com](http://bitbyteyum.com).
 
+## License
+
 This content is licensed under the [MIT License](http://opensource.org/licenses/MIT)
 
    Copyright (c) 2013 Brian Anderson
