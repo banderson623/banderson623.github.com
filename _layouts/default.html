@@ -51,6 +51,10 @@
 
     </body>
     
+    <!-- host: {{ site.host }} -->
+    
+    {% if site.host != '0.0.0.0' %}
+    
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -61,4 +65,7 @@
       ga('send', 'pageview');
 
     </script>
+    
+    {% endif %}
+    
 </html>
