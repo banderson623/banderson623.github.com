@@ -268,8 +268,10 @@ img.centered {
     padding:0 20px;
     overflow:scroll;
 }
-#project ul, #project ol
-#post ul, #post ol {
+#project ul, 
+#project ol,
+#post ul, 
+#post ol {
   margin-left: 1.35em;
 }
 
@@ -406,9 +408,13 @@ a.article_link:hover {
     }
     
     #project ul,
-    #post ul {
+    #post ul,
+    #project ol,
+    #post ol {
         margin-left:-0.25em;
     }
+    #project ol li,
+    #post ol li, 
     #project ul li,
     #post ul li {
         padding-left:0.25em;
