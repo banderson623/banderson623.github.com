@@ -3,3 +3,4 @@ pygments: true
 timezone: America/Chicago
 permalink: pretty
 url: http://bitByteYum.com
+include: [_projects]
