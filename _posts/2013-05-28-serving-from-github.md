@@ -50,7 +50,7 @@ I am using the excellent [Zepto.js](http://zeptojs.com/), _"minimalist JavaScrip
 
 I generate RSS feeds based on the [templates](https://github.com/snaptortoise/jekyll-rss-feeds) provided by [Snap Tortoise](http://snaptortoise.com/open-source.html).
 
-I've use the beautiful [Proxima Nova](https://typekit.com/fonts/proxima-nova) font from use [TypeKit](https://typekit.com/).
+I've use the beautiful [Proxima Nova](https://typekit.com/fonts/proxima-nova) font from  [TypeKit](https://typekit.com/).
 
 If you get stuck you can this site in my [public github repository](https://github.com/banderson623/banderson623.github.com).
 
