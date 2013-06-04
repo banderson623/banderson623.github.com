@@ -41,6 +41,20 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
+sup { /* for footnote references */
+    line-height:50%;
+}
+sup a{
+    text-decoration:none;
+    color:#999;
+    padding:2px;
+}
+sup a:visited   { color: #999; }
+sup a:hover{
+    text-decoration:underline;
+    color:inherit;
+}
+
 a         { color: inherit; }
 a:hover   { color: inherit; }
 a:visited { color: inherit; }
@@ -221,6 +235,11 @@ img.centered {
     background-color:#ffffed;
 }
 
+#project sup a,
+#post sup a {
+    background-color:transparent;
+}
+
 #project h1,
 #project h2,
 #post h1,
@@ -321,15 +340,28 @@ img.centered {
     display:none;
 }
 
-.other_posts {
+.other_posts,
+.projects {
     margin:0;
     color:#999;
     text-align:center;
 }
 
-p.other_posts {
+p.other_posts,
+.projects p {
     margin-top:4em;
     color:#666;
+}
+
+/* For the list of projects*/
+.projects h2{
+    font-size:16pt;
+    font-weight:normal;
+    color:#666;
+}
+
+.projects h2 span{
+    font-size:12pt;
 }
 
 ul.other_posts {
@@ -337,7 +369,8 @@ ul.other_posts {
 }
 
 .other_posts .small_date,
-.other_posts .long_date {
+.other_posts .long_date,
+.projects h2 span {
     color:#ccc;
     font-weight:normal;
 }
