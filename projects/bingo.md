@@ -27,6 +27,9 @@ In the Summer of 2012 I had to attend a series of meetings with a few friends. T
 
 I was looking for a project to experiment with a web application that ran _disconnected_ on the client side, it only communicated with the server through short HTTP API calls using [JSON](http://www.json.org/). [Backbone.js](http://backbonejs.org/) was hip and I was curious to experiment with a decoupled client/server architecture.
 
+
+I quickly whipped up a little sample javascript 
+
 I had identified four basic entities the game would need:
 1. **Player** &ndash; someone who has been invited to play 
 2. **Board** &ndash; A players arrangement of words in a grid
