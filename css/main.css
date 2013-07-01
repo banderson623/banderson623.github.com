@@ -353,6 +353,10 @@ p.other_posts,
     color:#666;
 }
 
+.projects h2 {
+    margin-top:2em;
+}
+
 /* For the list of projects*/
 .projects h2{
     font-size:16pt;
@@ -375,7 +379,7 @@ ul.other_posts {
     font-weight:normal;
 }
 
-.other_posts .small_date  {
+.small_date  {
     display:none;
 }    
 
@@ -415,10 +419,10 @@ a.article_link:hover {
         width:100%; !important
     }
     
-    .other_posts .small_date {
+    .small_date {
         display:inline;
     }
-    .other_posts .long_date {
+    .long_date {
         display:none;
     }
     

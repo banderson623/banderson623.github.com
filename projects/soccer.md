@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Pick Up Soccer Group
-Date: 2013-07-01
-categories: articles
-tags: soccer
+layout: project
+title: Pick Up Soccer
+date: July 2013
 --- 
 
-<img src="/images/posts/soccer.jpg" class="centered can_shrink" alt="A Soccer Ball" width="500px" />
+
+<img src="/images/projects/soccer/soccer.jpg" class="centered can_shrink" alt="A Soccer Ball" width="500px" />
 
 I've been coaching youth soccer for a couple of years with [Heart of Iowa Soccer](http://hoisc.org) and it has been a blast. I grew up playing youth soccer, but stopped by middle school. I played some pickup soccer in High School, but have recently got reengaged in the sport thanks to coaching my two sons. After playing in a few tournaments, and getting last place, me and a few friends put together a small [Google Group to schedule weekly soccer games](https://groups.google.com/forum/#!forum/ames-iowa-pickup-soccer). We've been doing it for about a year now and it has been a blast. Initially it started out with a few youth coaches, but has expanded as we've made friends. I love that we have enough people to play on large fields with keepers &mdash; and now the challenge is to preserve the goals of the group as we grow.
 
@@ -34,10 +33,10 @@ We normally play at one of two locations: [Upstil Park, in Ames](https://www.goo
 Most often games are from 7pm &ndash; 9pm on either a Tuesday evening or a Wednesday evening.
 
 ## Inis Grove Park, Ames IA.
-[<img src="/images/posts/inis-grove.png" class="centered can_shrink" alt="Map to Inis Grove" width="459px" />](https://www.google.com/maps/preview#!q=Inis+Grove+Park%2C+Ames%2C+IA&data=!1m4!1m3!1d3495!2d-93.612225!3d42.045723!2m1!1e3!4m10!1m9!4m8!1m3!1d1279!2d-93.6124041!3d42.0476247!3m2!1i1545!2i906!4f35&fid=7)
+[<img src="/images/projects/soccer/inis-grove.png" class="centered can_shrink" alt="Map to Inis Grove" width="459px" />](https://www.google.com/maps/preview#!q=Inis+Grove+Park%2C+Ames%2C+IA&data=!1m4!1m3!1d3495!2d-93.612225!3d42.045723!2m1!1e3!4m10!1m9!4m8!1m3!1d1279!2d-93.6124041!3d42.0476247!3m2!1i1545!2i906!4f35&fid=7)
 
 ## Gilbert Elementary School / Upstil Park, Gilbert IA
-[<img src="/images/posts/upstil-park.jpg" class="centered can_shrink" alt="Map to Upstil Park in Gilbert IA" width="517px" />](https://www.google.com/maps/preview#!q=Gilbert+Elementary+School%2C+Rothmoor+Drive%2C+Gilbert%2C+IA&data=!1m4!1m3!1d3498!2d-93.6456701!3d42.104897!2m1!1e3!4m10!1m9!4m8!1m3!1d40992!2d-93.6554052!3d41.6907007!3m2!1i1545!2i906!4f35&fid=7)
+[<img src="/images/projects/soccer/upstil-park.jpg" class="centered can_shrink" alt="Map to Upstil Park in Gilbert IA" width="517px" />](https://www.google.com/maps/preview#!q=Gilbert+Elementary+School%2C+Rothmoor+Drive%2C+Gilbert%2C+IA&data=!1m4!1m3!1d3498!2d-93.6456701!3d42.104897!2m1!1e3!4m10!1m9!4m8!1m3!1d40992!2d-93.6554052!3d41.6907007!3m2!1i1545!2i906!4f35&fid=7)
 
 
 
