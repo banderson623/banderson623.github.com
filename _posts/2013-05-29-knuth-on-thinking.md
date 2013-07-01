@@ -22,7 +22,7 @@ Knuth continues on...
 
 > One of the main characteristics of a computer science mentality is the ability to jump very quickly between levels of abstraction, between a low level and a high level, almost unconsciously
 
-> Another characteristic ... [is the ability] to deal with non uniform structures &mdash; case 1, case 2, case 3 &mdash; while a mathematician will tend to want one unifying axiom that governs an entire system.
+> Another characteristic ... (is the ability) to deal with non uniform structures &mdash; case 1, case 2, case 3 &mdash; while a mathematician will tend to want one unifying axiom that governs an entire system.
 
 I appreciate the way Knuth thinks about subjects. His writing is simple to read, yet rich in content and ideas. I believe it is this ability &mdash; to explain profound ideas in simple and  tangible ways &mdash; that makes him an ideal _Computer Scientist._
 
