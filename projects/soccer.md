@@ -28,7 +28,7 @@ _Thank you all for helping foster a good experience and build a fun group of peo
 
 # Times and Locations
 
-We normally play at one of two locations: [Upstil Park, in Ames](https://www.google.com/maps/preview#!q=Inis+Grove+Park%2C+Ames%2C+IA&data=!1m4!1m3!1d3495!2d-93.612225!3d42.045723!2m1!1e3!4m10!1m9!4m8!1m3!1d1279!2d-93.6124041!3d42.0476247!3m2!1i1545!2i906!4f35&fid=7) or [Gilbert Elementary School, south west fields](https://www.google.com/maps/preview#!q=Gilbert+Elementary+School%2C+Rothmoor+Drive%2C+Gilbert%2C+IA&data=!1m4!1m3!1d3498!2d-93.6456701!3d42.104897!2m1!1e3!4m10!1m9!4m8!1m3!1d40992!2d-93.6554052!3d41.6907007!3m2!1i1545!2i906!4f35&fid=7). 
+We normally play at one of two locations: [Inis Grove Park, in Ames](https://www.google.com/maps/preview#!q=Inis+Grove+Park%2C+Ames%2C+IA&data=!1m4!1m3!1d3495!2d-93.612225!3d42.045723!2m1!1e3!4m10!1m9!4m8!1m3!1d1279!2d-93.6124041!3d42.0476247!3m2!1i1545!2i906!4f35&fid=7) or [Gilbert Elementary School, south west fields](https://www.google.com/maps/preview#!q=Gilbert+Elementary+School%2C+Rothmoor+Drive%2C+Gilbert%2C+IA&data=!1m4!1m3!1d3498!2d-93.6456701!3d42.104897!2m1!1e3!4m10!1m9!4m8!1m3!1d40992!2d-93.6554052!3d41.6907007!3m2!1i1545!2i906!4f35&fid=7). 
 
 Most often games are from 7pm &ndash; 9pm on either a Tuesday evening or a Wednesday evening.
 
