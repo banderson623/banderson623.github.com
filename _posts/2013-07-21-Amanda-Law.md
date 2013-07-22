@@ -81,10 +81,7 @@ Amanda's life was a testimony of a selfless individual. Someone with patience to
 
 <!-- For all the foolish and arrogant views I had of Bob and his parenting. How oddly I viewed their life and thoughts on church – -->
 
-Bob and Becky raised a young woman who left a monumental legacy. Ben, and Amanda were some of the most selfless and caring people I've met. They served, helped, cared for, loved and impacted so many people. Her life will be remembered for many generations. 
-
-If only I can parent a tenth as well as Bob and Becky, I will be happy.
-
+Bob and Becky raised a young woman who left a monumental legacy[^4]. Ben, and Amanda were some of the most selfless and caring people I've met. They served, helped, cared for, loved and impacted so many people. Her life will be remembered for many generations. 
 
 
 # Amanda also wrote ... in that initial letter
@@ -100,3 +97,4 @@ _(This image is from the time I helped Becky and Amanda "touch up" her High Scho
 [^1]: It's too long to explain here, but I own half of that company.
 [^2]: [Wikipedia entry on Acute Lymphoblastic Leukemia](http://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia)
 [^3]: Amanda had a [caring bridge site](http://www.caringbridge.org/visit/amandalaw.) at where you can read the surreal account of her last few days. The [journal](http://www.caringbridge.org/visit/amandalaw/journal) is in reverse order. 
+[^4]: If only I can parent a tenth as well as Bob and Becky, I will be happy.
