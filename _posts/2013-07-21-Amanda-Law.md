@@ -95,6 +95,8 @@ If only I can parent a tenth as well as Bob and Becky, I will be happy.
 
 <img src="/images/posts/amanda-graduation.jpg" class="centered can_shrink" alt="Amanda's HS graduation picture" width="584px"/>
 
+_(This image is from the time I helped Becky and Amanda "touch up" her High School graduation announcement picture. It was very funny to sit between a mother and daughter, photoshopping away any tiny imperfections... what a great memory)_
+
 [^1]: It's too long to explain here, but I own half of that company.
 [^2]: [Wikipedia entry on Acute Lymphoblastic Leukemia](http://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia)
 [^3]: Amanda had a [caring bridge site](http://www.caringbridge.org/visit/amandalaw.) at where you can read the surreal account of her last few days. The [journal](http://www.caringbridge.org/visit/amandalaw/journal) is in reverse order. 
