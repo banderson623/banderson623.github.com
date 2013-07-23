@@ -75,7 +75,7 @@ On Thursday July 18th Amanda returned, unexpectedly, to the hospital[^3] with se
 
 In Iowa City Hospital the doctor told the family Amanda's body was shutting down.
 
-Friends and Family gathered around a wonderful young couple, a little over a year into their marriage and battling cancer. They watched Amanda, seemingly **full of life** 72 hours earlier, take her last earthly breath.
+Friends and Family gathered around a wonderful young couple, a little over two years into their marriage and battling cancer. They watched Amanda, seemingly **full of life** 72 hours earlier, take her last earthly breath.
 
 Amanda's life was a testimony of a selfless individual. Someone with patience to wait for her spouse, to respect her parents, to love God and serve &amp; enjoy people. She wasn't perfect, but she amounted to more than most people will. Her and Ben are a shining example of generosity and selfless living. It is with immense pain and sorrow that I am realizing what has happened over the last 24 hours. It is surreal.
 
