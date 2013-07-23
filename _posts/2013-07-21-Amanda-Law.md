@@ -7,6 +7,7 @@ tags: article
 --- 
 
 <img src="/images/posts/ben-and-amanda.jpg" class="centered can_shrink" alt="Ben and Amanda Law" width="800px"/>
+_Photo by Andrew Stephenson [^1]_
 
 # A Tribute to Ben and Amanda
 
@@ -26,7 +27,7 @@ Amanda possessed a quality that many of us want to have, or even  trick ourselve
 
 ## a Budding Relationship
 
-Ben moved from some rural farming community to Ames. He was eager to be a part of a quirky automotive restoration company[^1]. Ben was also intrigued by the way we were thinking about community and church. He was a young man full of passion for doing the right thing; for helping others; and growing up into a mature and thoughtful adult. (He was also good at eating...).
+Ben moved from some rural farming community to Ames. He was eager to be a part of a quirky automotive restoration company[^2]. Ben was also intrigued by the way we were thinking about community and church. He was a young man full of passion for doing the right thing; for helping others; and growing up into a mature and thoughtful adult. (He was also good at eating...).
 
 It didn't take long for Ben to notice Amanda. Some of which was fueled by Ben's older sisters who were friends with Amanda. ...Or that fact that they were both working at the automotive shop together.
 
@@ -44,7 +45,7 @@ Then Amanda started to get sick. She got tired more easily. She wasn't able to h
  
 Their life was turned upside down in January when Amanda, being too weak to get ready for the day, went to the ER.
 
-Amanda was diagnosed with acute lymphoblastic leukemia _(ALL)_. This type of Leukemia causes "immature white blood cells to continuously multiply and overproduced in the bone marrow." The blast cells then "crowding out normal cells in the bone marrow, and spread (infiltrating) to other organs."[^2] It was a serious, the disease is fatal if not treated immediately. Amanda was initially in the hospital for 5 weeks receiving intensive chemotherapy. All of her friends rallied around her and Ben. Amanda's treatment would be broken up into stages, the first six months would be intense, followed by another year of "maintenance." Her immune system would be decimated by the chemo, she had to be extremely careful who she came in contact with. So Ben and Amanda's friends and family came together to remodel a few rooms of their house. To make it more accessible for Amanda, since she'd be isolated and away from groups of people for so long. 
+Amanda was diagnosed with acute lymphoblastic leukemia _(ALL)_. This type of Leukemia causes "immature white blood cells to continuously multiply and overproduced in the bone marrow." The blast cells then "crowding out normal cells in the bone marrow, and spread (infiltrating) to other organs."[^3] It was a serious, the disease is fatal if not treated immediately. Amanda was initially in the hospital for 5 weeks receiving intensive chemotherapy. All of her friends rallied around her and Ben. Amanda's treatment would be broken up into stages, the first six months would be intense, followed by another year of "maintenance." Her immune system would be decimated by the chemo, she had to be extremely careful who she came in contact with. So Ben and Amanda's friends and family came together to remodel a few rooms of their house. To make it more accessible for Amanda, since she'd be isolated and away from groups of people for so long. 
 
 <img src="/images/posts/amanda-hospital.jpg" class="centered can_shrink" alt="Amanda after her diagnosis" width="800px"/>
 
@@ -71,7 +72,7 @@ Amanda wrote a letter to all of those who helped her in late January:
 
 # Surreal
 
-On Thursday July 18th Amanda returned, unexpectedly, to the hospital[^3] with serious abdominal pain. The doctors believed this to be side effects of the final round of intense chemotherapy. Things took a turn for the worse the following night and she was moved into the intensive care floor at the hospital, her blood pressure was dropping. They realized she had an infection in her intestines, something most people would fight off without a doctor visit. But to Amanda, whose body was frail and without the necessary white blood cells, it was a mountain to climb. Unable to get ahead of the infection her body began to shut down. She needed to be resuscitated on Saturday evening. She was placed on a ventilator. The decision was made that Amanda needed to be life flighted to Iowa City to receive additional care that was unavailable in Ames.
+On Thursday July 18th Amanda returned, unexpectedly, to the hospital[^4] with serious abdominal pain. The doctors believed this to be side effects of the final round of intense chemotherapy. Things took a turn for the worse the following night and she was moved into the intensive care floor at the hospital, her blood pressure was dropping. They realized she had an infection in her intestines, something most people would fight off without a doctor visit. But to Amanda, whose body was frail and without the necessary white blood cells, it was a mountain to climb. Unable to get ahead of the infection her body began to shut down. She needed to be resuscitated on Saturday evening. She was placed on a ventilator. The decision was made that Amanda needed to be life flighted to Iowa City to receive additional care that was unavailable in Ames.
 
 In Iowa City Hospital the doctor told the family Amanda's body was shutting down.
 
@@ -81,7 +82,7 @@ Amanda's life was a testimony of a selfless individual. Someone with patience to
 
 <!-- For all the foolish and arrogant views I had of Bob and his parenting. How oddly I viewed their life and thoughts on church – -->
 
-Bob and Becky raised a young woman who left a monumental legacy[^4]. Ben, and Amanda were some of the most selfless and caring people I've met. They served, helped, cared for, loved and impacted so many people. Her life will be remembered for many generations. 
+Bob and Becky raised a young woman who left a monumental legacy[^5]. Ben, and Amanda were some of the most selfless and caring people I've met. They served, helped, cared for, loved and impacted so many people. Her life will be remembered for many generations. 
 
 
 # Amanda also wrote ... in that initial letter
@@ -94,7 +95,8 @@ Bob and Becky raised a young woman who left a monumental legacy[^4]. Ben, and Am
 
 _(This image is from the time I helped Becky and Amanda "touch up" her High School graduation announcement picture. It was very funny to sit between a mother and daughter, photoshopping away any tiny imperfections... what a great memory)_
 
-[^1]: It's too long to explain here, but I own half of that company.
-[^2]: [Wikipedia entry on Acute Lymphoblastic Leukemia](http://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia)
-[^3]: Amanda had a [caring bridge site](http://www.caringbridge.org/visit/amandalaw.) at where you can read the surreal account of her last few days. The [journal](http://www.caringbridge.org/visit/amandalaw/journal) is in reverse order. 
-[^4]: If only I can parent a tenth as well as Bob and Becky, I will be happy.
+[^1]: Photo by [Andrew Stephenson, 2011](http://www.flickr.com/photos/11929573@N08/sets/72157626402657254/)
+[^2]: It's too long to explain here, but I own half of that company.
+[^3]: [Wikipedia entry on Acute Lymphoblastic Leukemia](http://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia)
+[^4]: Amanda had a [caring bridge site](http://www.caringbridge.org/visit/amandalaw.) at where you can read the surreal account of her last few days. The [journal](http://www.caringbridge.org/visit/amandalaw/journal) is in reverse order. 
+[^5]: If only I can parent a tenth as well as Bob and Becky, I will be happy.
