@@ -10,6 +10,8 @@ tags: article
 
 # A Tribute to Ben and Amanda
 
+**Update:** My wife made a wonderful video tribute to Amanda that you [should watch](/projects/amanda_law/)
+
 I still remember meeting Ben &mdash; Allison and I had just moved to the middle of Nowhere (Iowa) and had met a college student named Isaac Law. His younger brother Ben, came with him for a Sunday afternoon meal at our house. Ben was a _near-competitive_ eater. He polished of three brats and half a pizza that lazy afternoon on our back deck. High school metabolism &mdash; it's the Formula One of gastrointestinal efficiency.
 
 Months earlier my wife and I met a young high school girl who was a famous babysitter, well... famous in the mighty city of Ames. Her father, Bob Shuka, had offered me  a few hours of Linux administration side work.
