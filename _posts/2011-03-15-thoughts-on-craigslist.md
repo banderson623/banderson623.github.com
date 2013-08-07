@@ -16,7 +16,7 @@ Business Insider recently published [a chart showing the declining classified ad
 
 >" He shows ad revenue from help wanted classifieds dropping 92% in last 10 years, hitting $723 million last year, down from $8.7 billion in 2000."
 
-Now you couple that with the 10 minute snippet of audio, starting at around 13 minutes, from [podcast 67 from Stack Overflow](http://blog.stackoverflow.com/2009/09/podcast-67/). [Joel Spolsky](http://www.joelonsoftware.com/) philosophizes that "[he] feels that what Craig Newmark is doing with Craigslist is a brand of evil, in that it has destroyed the income stream (classified ads) that supported professional journalism." 
+Now you couple that with the 10 minute snippet of audio, starting at around 13 minutes, from [podcast 67 from Stack Overflow](http://blog.stackoverflow.com/2009/09/podcast-67/). [Joel Spolsky](http://www.joelonsoftware.com/) philosophizes that "\[he\] feels that what Craig Newmark is doing with Craigslist is a brand of evil, in that it has destroyed the income stream (classified ads) that supported professional journalism." 
 
 For those of you who don't know of Joel's work, he is a long term fixture in the online programming community. He worked at Microsoft back when the dinosaurs still roamed the earth. He went on to write, or compile, some great books on the [art, style and craft of writing software](http://www.amazon.com/Best-Software-Writing-Selected-Introduced/dp/1590595009). He also started a company [Fogcreek](http://www.fogcreek.com/), and has been fairly successful. I find him a very interesting guy and a fantastic thinker and writer in the industry.
 

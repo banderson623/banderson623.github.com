@@ -25,7 +25,7 @@ It is easy to [install and get up and running](http://jekyllrb.com/docs/installa
 
 They have fantastic [documentation](http://jekyllrb.com/docs/home/) that explains the directory structure, built in functions and configuration. 
 
-# Use [Github]
+# Use Github
 
 The site is *freely* stored and *freely* hosted at [Github](http://github.com). Using [Github Pages](http://pages.github.com/) you can host one of [your repositories](https://help.github.com/articles/user-organization-and-project-pages) as a website. Each time you push your code to the repository, the site is statically generated. Their [documentation](https://help.github.com/categories/20/articles) will get you up and running quickly. I followed the [instructions that explain how to use Jekyll](https://help.github.com/articles/using-jekyll-with-pages) to host your Github Pages site.
 

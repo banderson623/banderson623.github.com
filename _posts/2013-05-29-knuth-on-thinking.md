@@ -6,7 +6,7 @@ categories: articles
 tags: philosophy quote programming
 --- 
 
-Someone asked [Donald Knuth](http://www-cs-faculty.stanford.edu/~uno/), who I've [quoted before](/articles/2013/03/15/art-of-programming-knuth/), why he uses the phrase: "A computer scientists perspective" and "How [he] distinguishes that from other points of view?"
+Someone asked [Donald Knuth](http://www-cs-faculty.stanford.edu/~uno/), who I've [quoted before](/articles/2013/03/15/art-of-programming-knuth/), why he uses the phrase: "A computer scientists perspective" and "How \[he\] distinguishes that from other points of view?"
 
 Knuth, while reflecting on the rapid adoption of Computer Science programs across many universities in the 1960's, said:
 
