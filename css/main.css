@@ -282,11 +282,22 @@ img.centered {
   padding: 0 10px;
 }
 #project .highlight,
-#post .highlight {
+#post .highlight{
     margin:0 -40px;
     padding:0 20px;
     overflow:scroll;
 }
+
+#post .super-highlight {
+  background-color:#ffffb0;
+  margin:0 -20px;
+  padding:2px 20px;
+}
+
+#post .super-highlight p {
+  text-align:center;
+}
+
 #project ul, 
 #project ol,
 #post ul, 
@@ -497,6 +508,12 @@ a.article_link:hover {
     #project ul li,
     #post ul li {
         padding-left:0.25em;
+    }
+    
+    #post .super-highlight {
+      margin:0 -40px;
+      padding:1px 40px;
+      text-transform:uppercase;
     }
     
     .footnotes {

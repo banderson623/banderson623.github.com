@@ -3,8 +3,8 @@ layout: post
 title: Remembering Jack Anderson
 Date: 2013-07-22
 categories: articles
-tags: philosphy family
---- 
+tags: philosophy family
+---
 
 In 2008 my father passed away suddenly, he was 56 at the time. He was a great man who loved his family and provided for us in many ways. He left me with a deep curiosity for life and an ambition to tinker and explore.
 
