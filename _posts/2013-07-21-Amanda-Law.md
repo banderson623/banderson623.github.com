@@ -20,8 +20,6 @@ Months earlier my wife and I met a young high school girl who was a famous babys
 
 My wife and I had moved our budding family of three to fly-over cornville. We came as a part of a team of three other families to be a part of a new church group. _(When that was too weird, we'd tell people we wanted an idyllic location to raise a family)._
 
-<!-- Bob, who at this time was offering me 20 or more hours of work a week, was old and stubborn. We argued about life and church for many late hours while waiting for database migrations to complete. Having been to bible college and part of a failed church &ndash; I knew it all &ndash; _I wanted Bob to know it._ I was that 20-something smug turd. He patiently challenged my views of life, parenting and my own arrogant attitude. A year later I was working with him full time and I was the stubborn moron - insisting Bob's views of family and life were a crusty relic of mid-country ways. -->
-
 Allison and I met Bob's daughter, Amanda, at some church event. We had heard stories about her being a child-charmer. There wasn't a kid around who didn't know or love Amanda. Somehow she became a regular babysitter for us. Joining us on a multi family trip to be our native au pair.
 
 Amanda possessed a quality that many of us want to have, or even  trick ourselves into thinking we have &mdash; **she was happiest when serving others.** It was truly amazing to see her babysit, clean, talk with others. She rarely complained, was quick to laugh, and serious about getting tasks done.
@@ -80,8 +78,6 @@ In Iowa City Hospital the doctor told the family Amanda's body was shutting down
 Friends and Family gathered around a wonderful young couple, a little over two years into their marriage and battling cancer. They watched Amanda, seemingly **full of life** 72 hours earlier, take her last earthly breath.
 
 Amanda's life was a testimony of a selfless individual. Someone with patience to wait for her spouse, to respect her parents, to love God and serve &amp; enjoy people. She wasn't perfect, but she amounted to more than most people will. Her and Ben are a shining example of generosity and selfless living. It is with immense pain and sorrow that I am realizing what has happened over the last 24 hours. It is surreal.
-
-<!-- For all the foolish and arrogant views I had of Bob and his parenting. How oddly I viewed their life and thoughts on church – -->
 
 Bob and Becky raised a young woman who left a monumental legacy[^4]. Ben, and Amanda were some of the most selfless and caring people I've met. They served, helped, cared for, loved and impacted so many people. Her life will be remembered for many generations. 
 

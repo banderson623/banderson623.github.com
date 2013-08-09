@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+  <head>
+    <title>Test</title>
+  </head>
+  <body>
+    <canvas id="canvaz" width="400" height="400" />
+  </body>
+  
+  <script type="text/javascript" charset="utf-8">
+
+    function drawLine(ctx,a,b,color){
+      ctx.beginPath();
+      ctx.strokeStyle=color;
+      ctx.moveTo(a.x,a.y); // starts
+      ctx.lineTo(b.x,b.y);
+      ctx.stroke();
+    }
+    
+    left_gen = 0;
+    left_delta = -5.0;
+    
+    right_gen = 0;
+    right_delta = 5.0;
+    
+    height_limit = 40;
+    
+    max_iterations = 500;
+    fps = 15
+    
+    function moveHandles(){
+      // the changes decreases as it reaches its limit
+      left_gen +=   left_delta * ((height_limit - Math.abs(left_gen))/height_limit + 0.05);
+      right_gen +=   right_delta * ((height_limit - Math.abs(right_gen))/height_limit + 0.05);
+      
+      if (left_gen <= (-1*height_limit)  || left_gen >=  height_limit){left_delta *= -1;}
+      if (right_gen <= (-1*height_limit) || right_gen >= height_limit){right_delta *= -1;}
+    }
+    
+    window.intervalID = setInterval(function(){
+      moveHandles();
+      // console.log(max_iterations);
+      var left = 0;
+      var right = 200;
+      var v_center = 100
+      var start =       {x:left,     y:v_center};
+      var end =         {x:right,    y:v_center};
+      var leftHandle =  {x:left+ right/2, y:v_center+left_gen};
+      var rightHandle = {x:right-right/2,y:v_center+right_gen};
+      var c=document.getElementById("canvaz");
+      var ctx=c.getContext("2d");
+      ctx.clearRect(0,0,400,400);
+     
+      ctx.beginPath();
+      ctx.strokeStyle="#000000";
+      
+      ctx.moveTo(start.x,start.y); // starts
+      ctx.bezierCurveTo(
+            leftHandle.x,   leftHandle.y,
+            rightHandle.x, rightHandle.y,
+            end.x,end.y);
+      ctx.stroke();
+    }, 1000 / fps);
+    
+  </script>
+</html>

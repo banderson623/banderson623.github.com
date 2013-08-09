@@ -4,7 +4,20 @@ layout: default
 <div id="post">
     <h1 class="post_title">{{page.title}}</h1>
     <p class="meta">written on {{ page.date | date: "%B %d, %Y" }}</p>
-    
+    {% if page.lede %}
+      <script type="text/javascript" charset="utf-8">
+      Zepto(function($){
+        var all_paragraphs = $('p');
+        for(var i = 0; i < 3 && i < all_paragraphs.length; i++){
+          if($(all_paragraphs[i]).hasClass('meta') && ((i+1) < all_paragraphs.length)){
+            $(all_paragraphs[i+1]).addClass('lede');
+            i = 3;
+          }
+        }
+      })
+      </script>
+    {% endif %}
+      
     {{ content }}
     
 </div>

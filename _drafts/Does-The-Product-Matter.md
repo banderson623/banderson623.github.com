@@ -1,18 +1,21 @@
 ---
 layout: post
 title: Does the Product Matter?
-Date: 2013-08-15
+Date: 2013-08-07
 categories: articles
 tags: career work
+lede: true
 ---
 
-I've been helping a friend learn [Ruby on Rails](http://rubyonrails.org/)[^1]. And like most programming conversations it drifts from syntax, problem specific, conversation into architectural and philosophical depth. Our conversations reminded me of the countless hours my coworkers have spent with me, teaching me how to craft software. They talked me through the design, syntax and style &mdash; I learned a lot apprenticing under great tutors.
+<img id="tube" src="/images/posts/product/test-tube-empty.png" class="right-side can_shrink" width="150px"/>
+
+I've been helping a friend learn [Ruby on Rails](http://rubyonrails.org/)[^1]. And like most programming conversations it drifts from syntax, problem specific, conversation into architectural and philosophical depth. Our recent conversations remind me of the countless hours my coworkers have spent with me, teaching me how to craft software. We walked through the design, syntax and style &mdash; I learned a lot apprenticing under great tutors.
 
 ## My Beginnings
 
-In 2002 I made a dramatic career move and started working at a young, small, company in its teenage years. I had just left the dream job of my youth, interning as a middle school pastor-guy at my church.[^2] I bailed on bible college and was ready for a big career change! Like many Silicon Valley kids in the 90's, I grew up dorked out and writing [BASIC](http://en.wikipedia.org/wiki/BASIC) and doodling in pirated copies of Photoshop[^3]. I slowly start writing a neanderthal-like intranet in php, while having the good fortune of being around a handful of great C/C++ developers. 
+In 2002 I made a dramatic career move and started working at a young, small, company. I had just left my teenage dream job of interning as a middle school pastor-guy at my church.[^2] I bailed on bible college and was ready for a big career change! Like many Silicon Valley kids in the 90's, I grew up geeked out and writing [BASIC](http://en.wikipedia.org/wiki/BASIC) and doodling in pirated copies of Photoshop[^3]. I slowly started writing their intranet applications in php. It was some bad code, but I had the good fortune of being around a handful of great C/C++ developers.
 
-I had taken a couple of programming classes in High School and I knew I could hack my way around making something pretty appear on the screen. But I also knew that there was more to programming than just getting the right result to eventually show up. So I started researching and reading. I picked up a copy of [The Pragmatic Programmer](http://pragprog.com/book/tpp/the-pragmatic-programmer) written by by Andrew Hunt and David Thomas. That was the beginning of my professional software developer journey. Their forward includes the following:
+Prior to this, I had taken a couple of programming classes in High School and I knew I could hack my way around making something pretty appear on the screen. But I also knew that there was more to programming than just getting the right result to eventually show up. So I started researching and reading. I picked up a copy of [The Pragmatic Programmer](http://pragprog.com/book/tpp/the-pragmatic-programmer) written by by Andrew Hunt and David Thomas. That was the beginning of my professional software developer journey. Their forward includes the following:
 
 > Programming is a **craft**. At its simplest, it comes down to getting a computer to do what you want it to do (or what your user wants it to do). As a programmer, you are part listener, part advisor, part interpreter, and part dictator.
 and a couple chapters later they write

@@ -213,6 +213,11 @@ table {
     line-height:20pt;
 }
 
+#post .lede{
+  font-size: 14pt;
+  line-height: 24pt;
+}
+
 #project .title,
 #post .post_title {
     margin-bottom:0;
@@ -221,7 +226,8 @@ table {
 #post img {
 }
 
-img.centered {
+img.centered,
+img.right-side {
     margin:10px auto;
     display:block;    
 }
@@ -486,7 +492,6 @@ a.article_link:hover {
     }
 }
 
-
 @media (min-width:800px){
     .site {
         max-width:800px;
@@ -495,6 +500,18 @@ a.article_link:hover {
     #post {
         font-size:14pt;
         line-height:24pt;
+    }
+    
+    #post .lede{
+      font-size: 18pt;
+      line-height: 30pt;
+      text-align:justify;
+      text-justify:auto;
+    }
+    
+    img.right-side {
+      float:right;
+      margin-left:20px;
     }
     
     #project ul,
