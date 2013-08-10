@@ -27,9 +27,9 @@ They framed programming as a movement from journeyman to master craftsman. The p
 
 ## Okay, So Back to My Friend
 
-He is a stellar front end usability and HTML/CSS guy[^4]. It is a blast working with him, as he learns a new language and framework. He has experience writing PHP, so mostly we talk about the Ruby language and style. 
+He is a stellar front end usability and HTML/CSS guy[^4]. It is a blast working with him as he learns a new language and the Rails framework. He has experience writing PHP, so mostly we talk about the Ruby language and style. 
 
-One afternoon, as he is getting more familiar with Ruby, we starting talking about careers and programming-jobs. He must bet getting better at Ruby since we are getting philosophical. Earlier this week he casually sends me the following iMessage.
+One afternoon, as he is getting more familiar with Ruby, we starting talking about careers and programming-jobs. Then, earlier this week he casually sends me the following iMessage.
 
 > How do you know you wanted to be at [Vox Media](http://voxmedia.com) over your PREVIOUS_EMPLOYER?
 > * What was the piece that attracted you to them? 
@@ -43,19 +43,19 @@ I've spent the last 11 years of my professional life writing software. I tried t
 
 ## Two Sacrifices
 
-I learned a lot, but I also sacrificed two things[^6]. 
+I learned a lot, but I also sacrificed two things[^5]. 
 
 1. On a few occasions I **bypassed higher paying jobs** to remain in a culture where I would continue to learn a lot.
 
 2. **I never built a product I was passionate about**. There were many little things that made my contributions fun and rewarding, but what our products provided for society and the problems it solved &mdash; they were not interesting to me.
 
-As a young developer, I was more interested in the learning, people, methods, tools and programming languages than anything else. That focus has served me well for the first ten years. Recently, through another series of events[^7] I found myself seriously thinking through changing jobs. What did I want?
+As a young developer, I was more interested in the learning, people, methods, tools and programming languages than anything else. That focus has served me well for the first ten years. Recently, through another series of events[^6] I found myself seriously thinking through changing jobs. What did I want?
 
 <div class="super-highlight"> 
 <p>I knew I wanted to build a product that I was passionate about!</p>
 </div>
 
-I didn't want to ditch the other qualities. I wanted to work with people who loved what they did. Developers who are competent to architect, write and maintain high quality software. And I needed to work with real people; who enjoyed each other.[^8]
+I didn't want to ditch the other qualities. I wanted to work with people who loved what they did. Developers who are competent to architect, write and maintain high quality software. And I needed to work with real people; who enjoyed each other.[^7]
 
 I also wanted a place where I could be proud of my work. Somewhere that was contributing to society. A place where others could interact and use the product I was building. If possible it would be fun to work for a company that is trying something new or thinking different about what is normal.
 
@@ -71,11 +71,9 @@ A place where I could contribute and have significance. I also wanted to continu
 
 [^4]: Technically I think his title is "UX Engineer."
 
-[^5]: I mean this in the physical accessibility sense, clearly not everyone is able to successfully write software. It is a skill that takes time to develop and requires a certain mental-anility.
-
-[^6]: I really don't mean to complain. The market for software developers is healthy. Relative to many other jobs the pay and flexibility is fantastic. It is mentally stimulating, portable, location independent and accessible to anyone who can use a computer[^5]. It fits well with the service-oriented economy we find ourselves in. Our always-on always-connected lives require more software than ever before.
+[^5]: I really don't mean to complain. The market for software developers is healthy. Relative to many other jobs the pay and flexibility is fantastic. It is mentally stimulating, portable, location independent and accessible to anyone who can use a computer (I mean this in the physical accessibility sense, clearly not everyone is able to successfully write software. It is a skill that takes time to develop and requires a certain mental-anility.). It fits well with the service-oriented economy we find ourselves in. Our always-on always-connected lives require more software than ever before.
 
 
-[^7]: [Scholastic Achievement Unlocked](https://twitter.com/banderson623/status/357586362712592388) &amp; [Remembering Celerity](http://rememberingcelerity.com) (that might be my dad on the left).
+[^6]: [Scholastic Achievement Unlocked](https://twitter.com/banderson623/status/357586362712592388) &amp; [Remembering Celerity](http://rememberingcelerity.com) (that might be my dad on the left).
 
-[^8]: This pretty much excludes large companies and projects with large teams. I doubt the culture I wanted *(or maybe needed)* exists in bigger companies. I am sure there are individuals who are incredible in big organizations, but after some large number of employees there is enough organizational-cruft to suck the humanity, job, efficiency and fun out of people.
+[^7]: This pretty much excludes large companies and projects with large teams. I doubt the culture I wanted *(or maybe needed)* exists in bigger companies. I am sure there are individuals who are incredible in big organizations, but after some large number of employees there is enough organizational-cruft to suck the humanity, job, efficiency and fun out of people.
