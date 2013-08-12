@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+  <head>
+    <title>Center Of Mass</title>
+    <style type="text/css" media="screen">
+      body{
+        text-align:center;
+      }
+      canvas{
+        border:1px solid black;
+        margin:0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="playground" width="600" height="200" />
+  </body>
+  
+  <script type="text/javascript" charset="utf-8">
+    System = function(){
+      // Distance is a positive or negative value.
+      //  positive is to the right, negative is the left of center.
+      // holds masses as an object {:amount, :distance}
+      this._masses = [];
+      // [{d:1,w:12},{d:3,w:2]
+      this._total_length = 0;
+      
+      // The sum of this sytem
+      this.getMass = function(){
+        var sum = 0;
+        for(var i = 0; i < this._masses.length; i++){
+          sum += this._masses[i].m;
+        }
+        return sum;
+      };
+      
+      // Store this in an ordered way will help in the future
+      this.addMassAtDistance = function(mass, distance){        
+        if(distance > this._total_length){
+          this._total_length = distance;
+        }
+        this._masses.push({m:mass,d:distance});
+      }
+      
+      // retuns the difference betweent the largest negative and positive number
+      this.getWidthOfSystem = function(){
+        return this._total_length;
+      }
+      
+      
+      this.getCenterPoint = function(){
+        // this will return from the left most point
+        // (the largest negative) location
+        // Does not use positive or negative locations
+        // from http://hyperphysics.phy-astr.gsu.edu/hbase/cm.html
+        var mass = this.getMass();
+        if(mass == 0){
+          return 0;
+        } else {
+          var sumOfWeightDistanceProduct = 0;
+          for(var i = 0; i < this._masses.length; i++){
+            sumOfWeightDistanceProduct += this._masses[i].m * this._masses[i].d
+          }
+          return sumOfWeightDistanceProduct / this.getMass();
+        }
+      }
+      
+      this.toString = function(){
+        if(this._total_length == 0){
+          return "n/a";
+        }
+        var characters_wide = 80;
+        var length_to_characters = characters_wide/this._total_length;
+        // build a string
+        var string = "|"; 
+        for(var i =1; i < characters_wide-1; i++){string+="-"}; 
+        
+        for(var j = 0; j < this._masses.length; j++){
+          var location = Math.ceil(this._masses[j].d * length_to_characters);
+          console.log(j,"location: " + location, this._masses[j].d);
+          string = string.slice(0,location-2) + this._masses[j].m + string.slice(location,characters_wide);
+        }
+        string += "|";
+        var center = this.getCenterPoint();
+        var location = Math.ceil(center * length_to_characters);
+        console.log(center,"location: " + location);
+        
+        string = string.slice(0,location) + "^" + string.slice(location);
+        return string;
+      }
+    }
+    
+    var sys = new System();
+    sys.addMassAtDistance(20,1);
+    sys.addMassAtDistance(22,6);
+    sys.addMassAtDistance(33,10);
+    sys.addMassAtDistance(20,12)
+    console.log("Distance: " + sys.getWidthOfSystem());
+    console.log("Total Mass: " + sys.getMass());
+    console.log("Total Mass: " + sys.getCenterPoint());
+    console.log(sys.toString());
+    // console.log("Masses: ")
+  </script>
+</html>
