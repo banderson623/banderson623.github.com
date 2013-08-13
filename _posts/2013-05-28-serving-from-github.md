@@ -27,7 +27,7 @@ They have fantastic [documentation](http://jekyllrb.com/docs/home/) that explain
 
 # Use Github
 
-The site is *freely* stored and *freely* hosted at [Github](http://github.com). Using [Github Pages](http://pages.github.com/) you can host one of [your repositories](https://help.github.com/articles/user-organization-and-project-pages) as a website. Each time you push your code to the repository, the site is statically generated. Their [documentation](https://help.github.com/categories/20/articles) will get you up and running quickly. I followed the [instructions that explain how to use Jekyll](https://help.github.com/articles/using-jekyll-with-pages) to host your Github Pages site.
+The site is *[freely](https://github.com/blog/11-github-free-for-open-source)* stored and *freely* hosted at [Github](http://github.com). Using [Github Pages](http://pages.github.com/) you can host one of [your repositories](https://help.github.com/articles/user-organization-and-project-pages) as a website. Each time you push your code to the repository, the site is statically generated. Their [documentation](https://help.github.com/categories/20/articles) will get you up and running quickly. I followed the [instructions that explain how to use Jekyll](https://help.github.com/articles/using-jekyll-with-pages) to host your Github Pages site.
 
 The basic steps are:
 
@@ -52,7 +52,7 @@ I generate RSS feeds based on the [templates](https://github.com/snaptortoise/je
 
 I've use the beautiful [Proxima Nova](https://typekit.com/fonts/proxima-nova) font from  [TypeKit](https://typekit.com/).
 
-If you get stuck you can this site in my [public github repository](https://github.com/banderson623/banderson623.github.com).
+If you get stuck you can view this site in my [public github repository](https://github.com/banderson623/banderson623.github.com).
 
 [^1]: I started out thinking I would host it on [SquareSpace](http://www.squarespace.com/), but the tinker-er, in me wanted more control over every silly detail.
 
