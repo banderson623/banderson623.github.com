@@ -69,7 +69,7 @@ I didn't want to ditch the other qualities. I wanted to work with people who lov
 
 I also wanted a place where I could be proud of my work. Somewhere that was contributing to society. A place where others could interact and use the product I was building. If possible it would be fun to work for a company that is trying something new or thinking different about what is normal.
 
-I want a place where I can have [Autonomy, Mastery and Purpose](articles/2013/05/24/motivation/#on_motivation). Autonomy – I have some say in which problems I solve and how I solve them. Mastery – continue to grow my capabilities and refine my skills. Purpose – my work has meaning in a larger, society benefitting way.
+I want a place where I can have [Autonomy, Mastery and Purpose](/articles/2013/05/24/motivation/#on_motivation). Autonomy – I have some say in which problems I solve and how I solve them. Mastery – continue to grow my capabilities and refine my skills. Purpose – my work has meaning in a larger, society benefitting way.
 
 ## Balance &mdash; It's not one thing, It's all of it. 
 <div id="balanced">
