@@ -93,8 +93,12 @@ Zepto(function($){
       // Even once you scroll give it a moment...
       setTimeout(function(){
         $("#balanced .circle").animate({
-          "left":35+"%"
-        },3000, 'ease-in-out');
+          "left":"35%",
+          "margin-left":"0px",
+          "margin-top":"0px",
+          "height":"100px",
+          "width":"100px"
+        },4000, 'ease-in-out');
         
       },750);
       
@@ -104,7 +108,7 @@ Zepto(function($){
           wiggleForever(circles[i]);
         }
         window._is_wiggling = true;
-      },4000);
+      },5000);
       
     }
   }
