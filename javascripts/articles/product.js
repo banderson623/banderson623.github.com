@@ -37,6 +37,13 @@ Zepto(function($){
     },duration, 'ease-in-out');
   }
   
+  placeWigglesRandomly = function(){
+    $('#balanced .circle').each(function(i,el){
+      wiggling(el,0)
+    })
+  }
+  placeWigglesRandomly();
+  
   var bubble = function(element,duration){
     // Time the bubbles differently
     if(duration > 2000){

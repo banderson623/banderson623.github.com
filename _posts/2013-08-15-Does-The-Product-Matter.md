@@ -71,7 +71,7 @@ I also wanted a place where I could be proud of my work. Somewhere that was cont
 
 I want a place where I can have [Autonomy, Mastery and Purpose](articles/2013/05/24/motivation/#on_motivation). Autonomy – I have some say in which problems I solve and how I solve them. Mastery – continue to grow my capabilities and refine my skills. Purpose – my work has meaning in a larger, society benefitting way.
 
-## Balancing it All &mdash; It is not one thing. It is all of it. 
+## Balance &mdash; It's not one thing, It's all of it. 
 
 <div id="balanced">
   <div id="circle1" class="circle">&nbsp;</div>
@@ -82,10 +82,10 @@ I want a place where I can have [Autonomy, Mastery and Purpose](articles/2013/05
 
 
 
-1. Culture (people, environment, tools, language)
-2. Product
-3. Income
-4. Opportunity to learn and grow
+* Culture (people, environment, tools, language)
+* Opportunity to learn and grow
+* Product
+* Income
 
 **The key is finding the balance of those components that captures your attention and allows your work to engage and satisfy you.** Sometimes one is more important than another. I think this blend and relative weight is unique for each person. Right now, I am excited to focus on the [product Vox is building](http://voxmedia.com/). And I enjoy working with other great developers to execute it well.
 
