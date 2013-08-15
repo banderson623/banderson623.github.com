@@ -72,7 +72,6 @@ I also wanted a place where I could be proud of my work. Somewhere that was cont
 I want a place where I can have [Autonomy, Mastery and Purpose](articles/2013/05/24/motivation/#on_motivation). Autonomy – I have some say in which problems I solve and how I solve them. Mastery – continue to grow my capabilities and refine my skills. Purpose – my work has meaning in a larger, society benefitting way.
 
 ## Balance &mdash; It's not one thing, It's all of it. 
-
 <div id="balanced">
   <div id="circle1" class="circle">&nbsp;</div>
   <div id="circle2" class="circle">&nbsp;</div>
@@ -80,19 +79,17 @@ I want a place where I can have [Autonomy, Mastery and Purpose](articles/2013/05
   <div id="circle4" class="circle">&nbsp;</div>
 </div>
 
-
+<br />
 
 * Culture (people, environment, tools, language)
 * Opportunity to learn and grow
 * Product
 * Income
-
+ 
+<br />
+ 
+ 
 **The key is finding the balance of those components that captures your attention and allows your work to engage and satisfy you.** Sometimes one is more important than another. I think this blend and relative weight is unique for each person. Right now, I am excited to focus on the [product Vox is building](http://voxmedia.com/). And I enjoy working with other great developers to execute it well.
-
-
-
-
-
 
 [^1]: Using the excellent [Agile Web Development with Rails 4](http://pragprog.com/book/rails4/agile-web-development-with-rails-4) from the Pragmatic Programmers. I did read the first version, when Rails was announced.
 

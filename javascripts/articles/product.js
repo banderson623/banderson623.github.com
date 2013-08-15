@@ -31,7 +31,7 @@ Zepto(function($){
     var heightWidth = randomIntegerBetween(75,150) + 'px';
     $(element).animate({
       "margin-left": randomIntegerBetween(-100,+100) + 'px',
-      "margin-top": randomIntegerBetween(-50,+50) + 'px',
+      "margin-top": randomIntegerBetween(10,50) + 'px',
       "height": heightWidth,
       "width": heightWidth
     },duration, 'ease-in-out');
@@ -104,7 +104,7 @@ Zepto(function($){
           wiggleForever(circles[i]);
         }
         window._is_wiggling = true;
-      },5000);
+      },8000);
       
     }
   }
