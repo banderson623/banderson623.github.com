@@ -45,10 +45,6 @@ Zepto(function($){
   placeWigglesRandomly();
   
   var bubble = function(element,duration){
-    // Time the bubbles differently
-    if(duration > 2000){
-      var duration = randomIntegerBetween(2000,duration);
-    }
     var heightWidth = randomIntegerBetween(20,40) + 'px';
     $(element).animate({
       "margin-left": randomIntegerBetween(-20,65) + 'px',
