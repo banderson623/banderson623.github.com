@@ -6,6 +6,7 @@ layout: default
     <p class="meta">written on {{ page.date | date: "%B %d, %Y" }}</p>
     {% if page.lede %}
       <script type="text/javascript" charset="utf-8">
+      // This will add the lede class to the first paragraph of the article
       Zepto(function($){
         var all_paragraphs = $('p');
         for(var i = 0; i < 3 && i < all_paragraphs.length; i++){
@@ -17,9 +18,8 @@ layout: default
       })
       </script>
     {% endif %}
-      
     {{ content }}
-    
+
 </div>
 
 <p class="other_posts">Other Articles</p>
@@ -30,5 +30,5 @@ layout: default
       {% endif %}
   {% endfor %}
   <li><br /><a href="/articles/">View a list of all articles</a> &rarr;</li>
-  
+
 </ul>

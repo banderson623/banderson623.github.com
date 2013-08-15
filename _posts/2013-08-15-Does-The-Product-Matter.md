@@ -1,13 +1,23 @@
 ---
 layout: post
 title: Does the Product Matter?
-Date: 2013-08-07
+Date: 2013-08-15
 categories: articles
 tags: career work
 lede: true
+css: articles/product.css
+js: articles/product.js
 ---
 
-<img id="tube" src="/images/posts/product/test-tube-empty.png" class="right-side can_shrink" width="150px"/>
+<div id="test-tube" class="can_shrink">&nbsp;
+<div id="test-tube-bubbles">
+  <div class="circle">&nbsp;</div>
+  <div class="circle">&nbsp;</div>
+  <div class="circle">&nbsp;</div>
+</div>
+</div>
+
+
 
 I've been helping a friend learn [Ruby on Rails](http://rubyonrails.org/)[^1]. And like most programing conversations it drifts from language syntax into the philosophical. Our recent conversations remind me of the countless hours my coworkers have spent with me, teaching me how to craft software. We walked through the design, syntax and style &mdash; I learned a lot apprenticing under great tutors.
 
@@ -27,11 +37,11 @@ They framed programming as a movement from journeyman to master craftsman. The p
 
 ## Okay, So Back to My Friend
 
-He is a stellar front end usability and HTML/CSS guy[^4]. It is a blast working with him as he learns a new language and the Rails framework. He has experience writing PHP, so mostly we talk about the Ruby language and style. 
+He is a stellar front end usability and HTML/CSS guy[^4]. It is a blast working with him as he learns a new language and the Rails framework. He has experience writing PHP, so we end up talking about the Ruby language and style. 
 
 One afternoon, as he is getting more familiar with Ruby, we starting talking about careers and programming-jobs. Then, earlier this week he casually sends me the following iMessage.
 
-> How do you know you wanted to be at [Vox Media](http://voxmedia.com) over your PREVIOUS_EMPLOYER?
+> How do you know you wanted to be at [Vox Media](http://voxmedia.com) over your previous employeer?
 > * What was the piece that attracted you to them? 
 > * Was it the product? was it the people? 
 > * was it the tech? 
@@ -61,7 +71,28 @@ I also wanted a place where I could be proud of my work. Somewhere that was cont
 
 I want a place where I can have [Autonomy, Mastery and Purpose](articles/2013/05/24/motivation/#on_motivation). Autonomy – I have some say in which problems I solve and how I solve them. Mastery – continue to grow my capabilities and refine my skills. Purpose – my work has meaning in a larger, society benefitting way.
 
-A place where I could contribute and have significance. I also wanted to continue working at a place that would challenge me with difficult and exciting problems.
+## Balancing it All &mdash; It is not one thing. It is all of it. 
+
+<div id="balanced">
+  <div id="circle1" class="circle">&nbsp;</div>
+  <div id="circle2" class="circle">&nbsp;</div>
+  <div id="circle3" class="circle">&nbsp;</div>
+  <div id="circle4" class="circle">&nbsp;</div>
+</div>
+
+
+
+1. Culture (people, environment, tools, language)
+2. Product
+3. Income
+4. Opportunity to learn and grow
+
+**The key is finding the balance of those components that captures your attention and allows your work to engage and satisfy you.** Sometimes one is more important than another. I think this blend and relative weight is unique for each person. Right now, I am excited to focus on the [product Vox is building](http://voxmedia.com/). And I enjoy working with other great developers to execute it well.
+
+
+
+
+
 
 [^1]: Using the excellent [Agile Web Development with Rails 4](http://pragprog.com/book/rails4/agile-web-development-with-rails-4) from the Pragmatic Programmers. I did read the first version, when Rails was announced.
 

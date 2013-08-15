@@ -83,7 +83,7 @@ table {
     height:0px;
     z-index:0;
     margin:0 auto;
-    
+
 }
 #home #logo .circle{
     background-color:#d8e2f3;
@@ -229,7 +229,7 @@ table {
 img.centered,
 img.right-side {
     margin:10px auto;
-    display:block;    
+    display:block;
 }
 
 /*#project p, #project li, #project a,
@@ -304,9 +304,9 @@ img.right-side {
   text-align:center;
 }
 
-#project ul, 
+#project ul,
 #project ol,
-#post ul, 
+#post ul,
 #post ol {
   margin-left: 1.35em;
 }
@@ -398,7 +398,7 @@ ul.other_posts {
 
 .small_date  {
     display:none;
-}    
+}
 
 a.article_link {
     text-decoration:none;
@@ -421,7 +421,7 @@ a.article_link:hover {
 .stretched {
     top:56px;
     top:-20px;
-    position: absolute; 
+    position: absolute;
     left:-20px;
     right:-20px;
     overflow:hidden;
@@ -462,19 +462,19 @@ a.article_link:hover {
         padding:0px;
         margin: 3px;
     }
-    
+
     img.can_shrink {
         width:100%; !important
     }
-    
+
     .small_date {
         display:inline;
     }
     .long_date {
         display:none;
     }
-    
-    
+
+
 }
 
 @media (min-width: 500px) {
@@ -501,19 +501,23 @@ a.article_link:hover {
         font-size:14pt;
         line-height:24pt;
     }
-    
+
+    #post h2{
+      font-size: 20pt;
+    }
+
     #post .lede{
       font-size: 18pt;
       line-height: 30pt;
       text-align:justify;
       text-justify:auto;
     }
-    
+
     img.right-side {
       float:right;
       margin-left:20px;
     }
-    
+
     #project ul,
     #post ul,
     #project ol,
@@ -521,18 +525,18 @@ a.article_link:hover {
         margin-left:-0.25em;
     }
     #project ol li,
-    #post ol li, 
+    #post ol li,
     #project ul li,
     #post ul li {
         padding-left:0.25em;
     }
-    
+
     #post .super-highlight {
       margin:0 -40px;
       padding:1px 40px;
       text-transform:uppercase;
     }
-    
+
     .footnotes {
         font-size:12pt;
         line-height:18pt;
@@ -540,7 +544,7 @@ a.article_link:hover {
     .stretched {
         height:350px;
     }
-    
 
-    
+
+
 }

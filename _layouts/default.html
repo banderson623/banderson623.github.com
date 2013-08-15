@@ -23,6 +23,23 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
+        {% if page.css %}
+          <!-- Page specific css -->
+          {% assign css_links = page.css | split:' ' %}
+          {% for css_link in css_links %}
+          <link rel="stylesheet" href="/css/{{css_link}}">
+          {% endfor %}
+        {% endif %}
+
+        {% if page.js %}
+          <!-- Page specific js -->
+          {% assign jss = page.js | split:' ' %}
+          {% for js in jss %}
+          <script type="text/javascript" src="/javascripts/{{js}}"></script>
+          {% endfor %}
+        {% endif %}
+
+
     </head>
     <body>
 
