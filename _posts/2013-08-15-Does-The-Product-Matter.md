@@ -33,7 +33,7 @@ Prior to this, I had taken a couple of programming classes in High School and I 
 and a couple chapters later they write
 > Every **craftsman** starts his or her journey with a basic set of good-quality tools. A woodworker might need rules, gauges, a couple of saws, some good planes, fine chisels, drills and braces, mallets, and clamps... the tools become conduits from the craftsman's brain to the finished product—they have become extensions of his or her hands. ...Tools amplify your talent. The better your tools, and the better you know how to use them, the more productive you can be. 
 
-They framed programming as a movement from journeyman to master craftsman. The progression from apprenticing to mastery. The tools were knowledge of the language, ability to perceive systems, dissect them and the knowledge of text editors and IDEs. Along the way I had coworkers and managers who supported me, taught em and challenged me. I was extremely fortunate to be surrounded by these people. 
+They framed programming as a movement from journeyman to master craftsman. The progression from apprenticing to mastery. The tools were knowledge of the language, ability to perceive systems, dissect them and the knowledge of text editors and IDEs. Along the way I had coworkers and managers who supported me, taught me and challenged me. I was extremely fortunate to be surrounded by these people. 
 
 ## Okay, So Back to My Friend
 
