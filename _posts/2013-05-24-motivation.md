@@ -11,7 +11,7 @@ I wrote this over 5 years ago[^1]...
 > I value "fun" ... a lot ... in the work place. Fun is hard to define, but I'd like to work in a place where I feel like we (as a team) are making good decisions and that each person is competent in their position... each person is trusted to be creative and engaged in maximizing their contributions to the end product. 
  
 
-Yes in 2013. These things still motivate me! **[I love writing software](/resume/) because I get to create.**
+Yes, in 2013, those things still motivate me. **[I love writing software](/resume/) because I get to create.**
 
 I gave a presentation at Gilbert High School's 2013 career day last month. I was asked to share about life as a Programmer. I focused on creativity. Sometimes that looks like creating solutions that deconstruct hard problems into manageable tasks. Other times that will combine many small steps into a larger and simpler system with the details removed. I was reminded of what I love about writing software – I am building *things*.
 
