@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
-        
-        <!-- RSS for this site -->
-        <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>{{ page.title }}</title>
+      <meta name="viewport" content="width=device-width">
+      <!-- Custom CSS -->
+      <link rel="stylesheet" href="/css/main.css">
+      
+      <!-- RSS for this site -->
+      <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 
-        <!-- Fonts from Typekit -->
-        <script type="text/javascript" src="//use.typekit.net/ifb2tea.js"></script>
-        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+      <!-- Tracking Smacking -->
+      <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+      
+      <!-- Fonts from Typekit -->
+      <script type="text/javascript" src="//use.typekit.net/ifb2tea.js"></script>
+      <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-        <!-- I really enjoy this javascript library, thanks Thomas F! -->
-        <script src="/javascripts/zepto.min.js" type="text/javascript" charset="utf-8"></script>
+      <!-- I really enjoy this javascript library, thanks Thomas F! -->
+      <script src="/javascripts/zepto.min.js" type="text/javascript" charset="utf-8"></script>
     </head>
     <body>
 
@@ -37,5 +40,20 @@
       ga('send', 'pageview');
 
     </script>
-    
+    <script type="text/javascript">
+      var _sf_async_config = { uid: 50141, domain: 'bitbyteyum.com', useCanonical: true };
+      (function() {
+        function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+          document.body.appendChild(e);
+        };
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() { oldonload(); loadChartbeat(); };
+      })();
+    </script>
 </html>
