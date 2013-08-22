@@ -1,0 +1,1 @@
+# They value making money more than actually creating value
