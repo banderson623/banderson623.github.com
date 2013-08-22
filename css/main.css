@@ -267,12 +267,30 @@ img.right-side {
     margin-top:2em;
 }
 
-#project blockquote,
-#post blockquote {
+blockquote {
     border-left:4px solid #aaa;
     padding-left:40px;
     color:#999;
 }
+
+blockquote.big,
+blockquote.biggest {
+  font-family:'Kepler Std Semicondensed',Times;
+  font-size:36pt; 
+  line-height:48pt;
+  text-align:center;
+  font-weight:bold;
+  font-style: italic;
+  background:none;
+  border-left:0;
+  color:#000;
+  padding:30px;
+}
+blockquote.biggest {
+  font-size:48pt;
+  line-height: 56pt;
+}
+
 #project blockquote p,
 #post blockquote p {
     margin-top:0;

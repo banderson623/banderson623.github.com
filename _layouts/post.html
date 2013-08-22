@@ -2,8 +2,12 @@
 layout: default
 ---
 <div id="post">
-    <h1 class="post_title">{{page.title}}</h1>
-    <p class="meta">written on {{ page.date | date: "%B %d, %Y" }}</p>
+    {% if page.no_title %}
+      
+    {% else %}
+      <h1 class="post_title">{{page.title}}</h1>
+      <p class="meta">written on {{ page.date | date: "%B %d, %Y" }}</p>
+    {% endif %}    
     {% if page.lede %}
       <script type="text/javascript" charset="utf-8">
       // This will add the lede class to the first paragraph of the article
