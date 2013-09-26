@@ -14,7 +14,7 @@ The easy thing, and maybe obvious thing to do, when faced with a complex task is
 
 I suppose we trick ourselves into thinking we've gained efficiencies in the process because the computer is doing it faster than the previous way this task was performed *(possibly by hand)*. And then a second problem can arise – the paradigm of doing that type of task is locked into a clumsy user interface. Whole markets get stuck. Users expect a new entrant into that market to design an interface that looks similarly bad and complex. We become familiar with (and possibly trained in) using the poor, clunky, interface. We grumble if it changes, even if that change is for the better. These reasons drives down the motivation for rethinking that interface-paradigm all together.
 
-### The result – we have whole categories of software and application-genre's that have abysmal interfaces.
+### The result – we have whole categories of software and application-genres that have abysmal interfaces.
 
 A convienient example of this is Microsoft Word. The goal of MS Word is to allow the user to compose words, sentences and paragraphs to build a document they can save and share. Microsoft did not invent the word processor, but they came to dominate the field, and dominate the users' expectations.[^2] 
 
