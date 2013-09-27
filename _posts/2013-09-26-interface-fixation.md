@@ -16,7 +16,7 @@ I suppose we trick ourselves into thinking we've gained efficiencies in the proc
 
 ### The result – we have whole categories of software and application-genres that have abysmal interfaces.
 
-A convienient example of this is Microsoft Word. The goal of MS Word is to allow the user to compose words, sentences and paragraphs to build a document they can save and share. Microsoft did not invent the word processor, but they came to dominate the field, and dominate the users' expectations.[^2] 
+A convenient example of this is Microsoft Word. The goal of MS Word is to allow the user to compose words, sentences and paragraphs to build a document they can save and share. Microsoft did not invent the word processor, but they came to dominate the field, and dominate the users' expectations.[^2] 
 
 <img src="/images/posts/interface-fixation/word2007.gif" class="centered can_shrink" alt="Word 2007 Screen" width="500px"/>
 
@@ -32,7 +32,9 @@ There are some companies doing great work in this field. Thinking fresh about ho
 
 Another great example of this is [IA Writer](http://www.iawriter.com/). They have removed nearly every element on the screen except for your text.
 
-<img src="/images/posts/interface-fixation/markdown-mac.png" class="centered can_shrink" alt="Example of a simple user interface" width="600px"/>
+<img src="/images/posts/interface-fixation/writer-for-mac-4.png" class="centered can_shrink" alt="Example of a simple user interface" width="800px"/>
+
+_[@iAWriter](https://twitter.com/iawriter) [wrote me](https://twitter.com/iawriter/status/383409724646907906) to mention that I had previously shown their heavy user interface in my screenshot. This has been updated. (Thanks guys!)_
 
 
 [^1]: This applies to user interfaces as well as to [programming interfaces](http://en.wikipedia.org/wiki/Interface_%28computing%29). The question should always be, what level of detail does the user need to be bothered with this instant. Try to remove as much of the "bothering" as you can.
