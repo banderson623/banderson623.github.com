@@ -430,6 +430,20 @@ a.article_link:hover {
     margin-top:2em;
 }
 
+.rotated {
+  -webkit-transform: rotate(0.5deg);
+     -moz-transform: rotate(0.5deg);
+      -ms-transform: rotate(0.5deg);
+       -o-transform: rotate(0.5deg);
+          transform: rotate(0.5deg);
+}
+
+.shadowed {
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+       -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+            box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+}
+
 .callout {
     background-color:#fffde7;
     padding:5px 20px;
