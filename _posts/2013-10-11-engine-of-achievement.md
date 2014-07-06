@@ -26,7 +26,7 @@ I've selected a few amazing quotes from his talk and included them below.
 
 > Part of the problem is ... the dominant culture of education has come to focus on ... testing. Now, testing is important. Standardized tests have a place. But they should not be the dominant culture of education. They should be diagnostic. 
 
-> But [standardized tests] should support learning. It shouldn't obstruct it, which of course it often does. So in place of curiosity, what we have is a culture of compliance. Our children and teachers are encouraged to follow routine algorithms rather than to excite that power of imagination and curiosity.
+> But \[standardized tests\] should support learning. It shouldn't obstruct it, which of course it often does. So in place of curiosity, what we have is a culture of compliance. Our children and teachers are encouraged to follow routine algorithms rather than to excite that power of imagination and curiosity.
 
 #  Develop the power of creativity
 
