@@ -15,13 +15,13 @@ For various reasons, that I might write about later, I decided I needed a place 
 
 It is easy to [install and get up and running](http://jekyllrb.com/docs/installation/).
 
-{% highlight bash %}
-  ~ $ gem install jekyll
-  ~ $ jekyll new my-site
-  ~ $ cd my-site
-  ~/my-site $ jekyll serve
-  # => Open http://localhost:4000
-{% endhighlight %}
+
+     ~ $ gem install jekyll
+     ~ $ jekyll new my-site
+     ~ $ cd my-site
+     ~/my-site $ jekyll serve
+     # => Open http://localhost:4000
+
 
 They have fantastic [documentation](http://jekyllrb.com/docs/home/) that explains the directory structure, built in functions and configuration. 
 
