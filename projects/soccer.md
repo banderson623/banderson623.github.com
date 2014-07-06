@@ -33,17 +33,12 @@ _Thank you all for helping foster a good experience and build a fun group of peo
 
 # Times and Locations
 
-We normally play at one of two locations: [Inis Grove Park, in Ames](https://www.google.com/maps/preview#!q=Inis+Grove+Park%2C+Ames%2C+IA&data=!1m4!1m3!1d3495!2d-93.612225!3d42.045723!2m1!1e3!4m10!1m9!4m8!1m3!1d1279!2d-93.6124041!3d42.0476247!3m2!1i1545!2i906!4f35&fid=7) or [Gilbert Elementary School, south west fields](https://www.google.com/maps/preview#!q=Gilbert+Elementary+School%2C+Rothmoor+Drive%2C+Gilbert%2C+IA&data=!1m4!1m3!1d3498!2d-93.6456701!3d42.104897!2m1!1e3!4m10!1m9!4m8!1m3!1d40992!2d-93.6554052!3d41.6907007!3m2!1i1545!2i906!4f35&fid=7). 
+We normally play at [Inis Grove Park, in Ames](https://www.google.com/maps/preview#!q=Inis+Grove+Park%2C+Ames%2C+IA&data=!1m4!1m3!1d3495!2d-93.612225!3d42.045723!2m1!1e3!4m10!1m9!4m8!1m3!1d1279!2d-93.6124041!3d42.0476247!3m2!1i1545!2i906!4f35&fid=7). 
 
-Most often games are from 7pm &ndash; 9pm on either a Tuesday evening or a Wednesday evening.
+This summer we've landed on Thursday nights at 7pm at Inis Grove, as our regular game time.
 
 ## Inis Grove Park, Ames IA.
 [<img src="/images/projects/soccer/inis-grove.png" class="centered can_shrink" alt="Map to Inis Grove" width="459px" />](https://www.google.com/maps/preview#!q=Inis+Grove+Park%2C+Ames%2C+IA&data=!1m4!1m3!1d3495!2d-93.612225!3d42.045723!2m1!1e3!4m10!1m9!4m8!1m3!1d1279!2d-93.6124041!3d42.0476247!3m2!1i1545!2i906!4f35&fid=7)
-
-## Gilbert Elementary School / Upstil Park, Gilbert IA
-[<img src="/images/projects/soccer/upstil-park.jpg" class="centered can_shrink" alt="Map to Upstil Park in Gilbert IA" width="517px" />](https://www.google.com/maps/preview#!q=Gilbert+Elementary+School%2C+Rothmoor+Drive%2C+Gilbert%2C+IA&data=!1m4!1m3!1d3498!2d-93.6456701!3d42.104897!2m1!1e3!4m10!1m9!4m8!1m3!1d40992!2d-93.6554052!3d41.6907007!3m2!1i1545!2i906!4f35&fid=7)
-
-
 
 
 <!-- _Thanks to [camknows](http://www.flickr.com/photos/camknows/) for the header image [Soccer Ball in Grass](http://www.flickr.com/photos/camknows/4733632411/in/photolist-8di6ZV-99hfn8-99h9qi-99h9Pg-99khby-8nctfA-bXwjqQ-7ZKoGx-bu8L7D-8nct4u-7XXcfH-8S12uo-8giy7S-aspDJh-asmVBX-asprB7-aspDnL-asmpD4-asmxh6-asp2Qq-aspvvW-asoPxG-asm2YB-asm8FX-asmM8n-aspndw-askWr8-8hL4Tx-8dY3Qn-9RRXCc-acwmW3-acwnaY-7YdCva-dChTFf-bJjvRt-8VMcSK-8fu6GL-8wPRcf-7YyzEy-8ucTQr-8pPCZA-dpwtya-8jUxKe-9RVRCn-9SH7DY-8Na5xY-99gQWF-99gSta-99jXVS/) available for creative commons use on flickr._ -->
