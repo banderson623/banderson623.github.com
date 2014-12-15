@@ -6,9 +6,10 @@ categories: articles
 tags: education learning github
 ---
 
-TL;DR – Is there value in having a collection of lessons from educators from different schools and different grade levels? This collection would encourage open sharing and collaborative-iterations on lessons for different grade levels. If this sounds even remotely interesting read on. I’ve tried to outline how this could work.
+TL;DR – **Is there value building a collection of lessons from educators from different schools and different grade levels?** This collection would encourage open sharing and collaborative-iterations on lessons for different grade levels. If this sounds even remotely interesting read on. I’ve tried to outline how this could work.
 
 ---
+_Note: This is from an email I sent earlier this year a few of my friends in education. I meant to publish it much sooner, but I realize that I never did. So here it is, late, but I still thing it is interesting._
 
 I am on a committee who is interviewing candidates for a new position in the Gilbert schools. One of the new positions includes this in their job responsibility: _"Facilitate the creation and maintenance of a repository of exemplar lessons and classroom-instruction videos."_
 
