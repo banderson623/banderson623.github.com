@@ -6,3 +6,4 @@ url: http://bitByteYum.com
 include: [_projects]
 projects: [bingo]
 future: false
+markdown: kramdown
