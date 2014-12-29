@@ -4,6 +4,8 @@ This is the repository of Brian Anderson's [bitByteYum.com](http://bitbyteyum.co
 
 Feel free to read how this site is put together and hosted [in an article I wrote - Hosting With Github Pages](http://bitbyteyum.com/articles/2013/05/28/serving-from-github/)
 
+:+1:
+
 ## License
 
 This content is licensed under the [MIT License](http://opensource.org/licenses/MIT)
