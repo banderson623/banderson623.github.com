@@ -116,12 +116,35 @@ table {
     z-index:10;
 }
 
-.site #home .lead_in {
+.site #home .lead_in,
+.site #home .latest_post {
     font-family: "proxima-nova-alt-ext-cond", "proxima-nova", helvetica, arial, sans-serif;
     font-weight:normal;
     line-height:1em;
     font-size:40pt;
     text-transform:uppercase;
+}
+
+.site #home .latest_post {
+  font-size: 16pt;
+  background-color: rgba(0,0,0,0.35);
+  margin: 0 10% 0 10%;
+  margin-top: 2rem;
+  padding: 1rem 0;
+  color: #fff;
+}
+
+.latest-preview {
+  margin: 0 10% 10% 10%;
+  padding: 5% 10%;
+  background-color: rgba(0,0,0,0.1);
+}
+
+.latest-preview p{
+  text-align: left;
+}
+#home .latest-preview img {
+  display:none;
 }
 
 /*****************************************************************************/
@@ -276,7 +299,7 @@ blockquote {
 blockquote.big,
 blockquote.biggest {
   font-family:'Kepler Std Semicondensed',Times;
-  font-size:36pt; 
+  font-size:36pt;
   line-height:48pt;
   text-align:center;
   font-weight:bold;

@@ -19,7 +19,7 @@ This was sent to me by a family friend, with two middle school boys. Neither par
 
 This is quite a broad phrase.
 
-I am taking this to mean a practical, experimental approach to becoming familiar with principles of **electricity** and basic **circuits**, simple **physics[^physics]**, and an introduction to **programming.**
+The definition I'll be using – practical, experimental approach to becoming familiar with principles of **electricity** and basic **circuits**, simple **physics[^physics]**, and an introduction to **programming.**
 
 I am looking forward to solidifying my understanding of the first three and working on my ability to introduce people to the fundamentals of writing software.
 

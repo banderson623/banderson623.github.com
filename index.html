@@ -4,82 +4,104 @@ title: BitByteYum - Brian Anderson
 ---
 
 <div id="home">
-    <div id="logo">
-        <div id="circleContainer">
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-        </div>
-        <div id="wordContainer">
-            <h1 id="bit">Bit</h1><h1 id="byte">Byte</h1><h1 id="yum">Yum</h1>
-        </div>
+
+  <div id="logo">
+    <div id="circleContainer">
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
     </div>
-    <h2 class="lead_in">playful, simple &amp; tasty</h2>
-    <div class="contact">
-      <p>I am 
-        <a href="mailto:Brian@BitByteYum.com">Brian Anderson</a> and can be found at 
-        <a href="http://twitter.com/banderson623/">twitter</a>, 
-        <a href="http://github.com/banderson623/">github</a> and
-        <a href="http://www.linkedin.com/in/banderson623">linkedIn</a>.
-         <!-- or view my -->
-        <!-- <a href="/resume/">resume</a>. -->
-      </p>
+    <div id="wordContainer">
+      <h1 id="bit">Bit</h1><h1 id="byte">Byte</h1><h1 id="yum">Yum</h1>
     </div>
-  
-  <p class="latest_posts">Recent Articles: 
-    {% for post in site.posts limit:3 %}
-      <a href="{{ post.url }}">{{ post.title }}</a>, 
-    {% endfor %}
-    <a href="/articles/">...more</a>
- </p>
+  </div>
+  <h2 class="lead_in">playful, simple &amp; tasty</h2>
+<div class="contact">
+    <p>I am
+      <a href="mailto:Brian@BitByteYum.com">Brian Anderson</a> and can be found at
+      <a href="http://twitter.com/banderson623/">twitter</a>,
+      <a href="http://github.com/banderson623/">github</a> and
+      <a href="http://www.linkedin.com/in/banderson623">linkedIn</a>.
+       <!-- or view my -->
+      <!-- <a href="/resume/">resume</a>. -->
+    </p>
+  </div>
+
+<!-- <p class="latest_posts">Recent Articles:
+  {% for post in site.posts limit:3 %}
+    <a href="{{ post.url }}">{{ post.title }}</a>,
+  {% endfor %}
+  <a href="/articles/">...more</a>
+</p> -->
+
+  <h1 class="latest_post"><a href="{{ site.posts.first.url }}">Something I wrote recently</a></h1>
+  <section class="latest-preview">
+    <h1><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
+    <p>{{ site.posts.first.content | truncatewords: 110 }}</p>
+    <a href="{{ site.posts.first.url }}">... continue reading {{ site.posts.first.title }}</a>
+  </section>
+
+
+  <p class="other_posts">Other Articles</p>
+  <ul class="other_posts">
+  {% for p in site.posts limit:5 %}
+      {% if p.url != page.url %}
+        <li><a href="{{ p.url }}">{{ p.title }}</a><span class="small_date"> - {{p.date | date: "%b '%y" }}</span><span class="long_date"> - {{p.date | date: "%B %d, %Y" }}</span></li>
+      {% endif %}
+  {% endfor %}
+  <li><br /><a href="/articles/">View a list of all articles</a> &rarr;</li>
+  </ul>
+
 </div>
 
+
+
 <script type="text/javascript" charset="utf-8">
-    var playfulBackgroundColors = ['#d8e2f3'];//,'#edfce8','#d7cde2'];
-    var pageBuildSpeed = 100; //in ms
-    var randomIntegerBetween = function(lowest,highest){
-        return (Math.ceil(Math.random()*100) % (highest-lowest+1)) + lowest;
-    }
-    var playfulize = function(elment,duration){
-        $(elment).animate({
-          opacity: (randomIntegerBetween(50,100)/100.0), 
-          rotateZ: randomIntegerBetween(-5,5) + 'deg',
-        },duration, 'ease-in-out');
-    }
-    var wiggle = function(elment,duration){
-        var index = randomIntegerBetween(0,playfulBackgroundColors.length-1)
-        var size = randomIntegerBetween(90,150);
-        $(elment).animate({
-          opacity: (randomIntegerBetween(20,75)/100.0), 
-          backgroundColor: playfulBackgroundColors[index],
-          marginLeft: randomIntegerBetween(-20,40) + 'px',
-          marginTop: randomIntegerBetween(-20,40) + 'px',
-          width: size + 'px',
-          height: size + 'px',
-        },duration, 'ease-in-out');
-    }
+  var playfulBackgroundColors = ['#d8e2f3'];//,'#edfce8','#d7cde2'];
+  var pageBuildSpeed = 100; //in ms
+  var randomIntegerBetween = function(lowest,highest){
+      return (Math.ceil(Math.random()*100) % (highest-lowest+1)) + lowest;
+  }
+  var playfulize = function(elment,duration){
+      $(elment).animate({
+        opacity: (randomIntegerBetween(50,100)/100.0),
+        rotateZ: randomIntegerBetween(-5,5) + 'deg',
+      },duration, 'ease-in-out');
+  }
+  var wiggle = function(elment,duration){
+      var index = randomIntegerBetween(0,playfulBackgroundColors.length-1)
+      var size = randomIntegerBetween(90,150);
+      $(elment).animate({
+        opacity: (randomIntegerBetween(20,75)/100.0),
+        backgroundColor: playfulBackgroundColors[index],
+        marginLeft: randomIntegerBetween(-20,40) + 'px',
+        marginTop: randomIntegerBetween(-20,40) + 'px',
+        width: size + 'px',
+        height: size + 'px',
+      },duration, 'ease-in-out');
+  }
 
-    $(".circle").each(function(index,el){
-        wiggle(el,3000);
-        var timing = randomIntegerBetween(3000,10000);
-        var interval = setInterval(function(){
-            wiggle(el,timing);
-        },timing+200);
-    });
+  $(".circle").each(function(index,el){
+      wiggle(el,3000);
+      var timing = randomIntegerBetween(3000,10000);
+      var interval = setInterval(function(){
+          wiggle(el,timing);
+      },timing+200);
+  });
 
-    $("#bit,#byte,#yum").each(function(index,el){
-        playfulize(el,1800);
-        var timingForThisWord = randomIntegerBetween(4000,10000);
-        var interval = setInterval(function(){
-            playfulize(el,timingForThisWord);
-        },timingForThisWord+200);
-    });
+  $("#bit,#byte,#yum").each(function(index,el){
+      playfulize(el,1800);
+      var timingForThisWord = randomIntegerBetween(4000,10000);
+      var interval = setInterval(function(){
+          playfulize(el,timingForThisWord);
+      },timingForThisWord+200);
+  });
 
 
 
