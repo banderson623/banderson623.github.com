@@ -47,7 +47,7 @@ I needed to find a project that would be interesting to middle school boys, so I
 
 After thinking about this over the weekend, I've settled on a progressive buildout of a **pneumatic potato gun**. Each section[^time-line] we will read, discuss and _hopefully_ build an experiment to explore the concepts.
 
-The buildout contains six main sections with an introduction and a stretch goal if we all still like each other at the end of this project. Some of these sections will be accomplished in one meeting, others might take a month to get through. [^pace]
+The buildout contains six main sections with an introduction and a stretch goal &mdash; if we all still like each other at the end of this project. Some of these sections will be accomplished in one meeting, others might take a month to get through. [^pace]
 
 ### Key Concepts:
 
