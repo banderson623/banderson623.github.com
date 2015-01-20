@@ -126,18 +126,26 @@ table {
 }
 
 .site #home .latest_post {
-  font-size: 16pt;
-  background-color: rgba(0,0,0,0.35);
+  font-size: 15pt;
   margin: 0 10% 0 10%;
   margin-top: 2rem;
-  padding: 1rem 0;
-  color: #fff;
+  padding: 0.5rem 0;
 }
 
 .latest-preview {
-  margin: 0 10% 10% 10%;
-  padding: 5% 10%;
-  background-color: rgba(0,0,0,0.1);
+  margin: 0 10% 5% 10%;
+  padding: 2% 10%;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.latest-preview a.more {
+  display: block;
+  padding: 0.25rem;
+  background-color: rgba(0,0,0,0.15);
+  text-decoration: none;
+}
+.latest-preview a.more:hover {
+  background-color: rgba(0,0,0,0.25);
 }
 
 .latest-preview p{
@@ -145,6 +153,19 @@ table {
 }
 #home .latest-preview img {
   display:none;
+}
+
+@media (max-width: 400px) {
+  .latest-preview {
+    margin: 5% 0;
+    padding: 0.5rem;
+    padding-bottom: 2rem;
+    border: 0;
+    border-bottom: 2px solid rgba(0,0,0,0.25);
+  }
+  .latest-preview a.more {
+    background-color: rgba(0,0,0,0.05);
+  }
 }
 
 /*****************************************************************************/
