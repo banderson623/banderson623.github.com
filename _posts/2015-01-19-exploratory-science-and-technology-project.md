@@ -11,13 +11,13 @@ css: articles/est.css
 
 I received an email late last week:
 
-> I know you are a highly requested man in many different facets of your life, but I was inquiring to see if you would be able to find time either once a week or once every other week to explore and teach the boys some technology skills. Our schedule is flexible and I was thinking for about an hour. (I can pay you too. Or at least double a recipe to give your wife a night off from cooking!)
+> ... I was inquiring to see if you would be able to find time either once a week or once every other week to explore and teach the boys some technology skills. Our schedule is flexible and I was thinking for about an hour. (I can pay you too. Or at least double a recipe to give your wife a night off from cooking!)
 
 This was sent to me by a family friend, with two middle school boys. Neither parent are tech-oriented, so they asked if I could help[^workout]. This is an incredible opportunity! Naturally I jumped at the chance to do _experimentations with them._
 
 # So about those “Technology Skills”…
 
-This is quite a broad expression.
+This is quite a broad phrase.
 
 I am taking this to mean a practical, experimental approach to becoming familiar with principles of **electricity** and basic **circuits**, simple **physics[^physics]**, and an introduction to **programming.**
 
@@ -43,9 +43,11 @@ After trying to recall the interesting things I did in Middle School, High Schoo
 
 # The Project – Spudnik
 
-I needed to find a project that would be interesting to middle school boys, so I gravitated toward explosions and projectiles[^boom].
+I needed to find a project that would be interesting to middle school boys, so I gravitated toward explosions and projectiles. [^boom]
 
-I’ve settled on a progressive buildout of a **pneumatic potato gun**. Each section[^time-line] we will read, discuss and _hopefully_ build an experiment to explore the concepts.
+After thinking about this over the weekend, I've settled on a progressive buildout of a **pneumatic potato gun**. Each section[^time-line] we will read, discuss and _hopefully_ build an experiment to explore the concepts.
+
+The buildout contains six main sections with an introduction and a stretch goal if we all still like each other at the end of this project. Some of these sections will be accomplished in one meeting, others might take a month to get through. [^pace]
 
 ### Key Concepts:
 
@@ -79,3 +81,5 @@ I am dog fooding my own [Educational Repository](/articles/2014/04/01/educationa
 [^boom]: I love this stuff too – so it is a natural fit.
 
 [^time-line]: I am not sure how long each section will take. I suppose that some sections can be accomplished in a week, some will take multiple weeks. I really don’t know what to expect here. There are some ideas that are complex, and others that are simple. But even with simple ideas, an experiment or build-out can take a lot far longer than 90 minutes I’ve allotted for each session.
+
+[^pace]: I'd rather the pacing be dictated by their appetite and curiosity than an predetermined schedule.
