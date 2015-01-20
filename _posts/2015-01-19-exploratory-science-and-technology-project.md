@@ -13,7 +13,7 @@ I received an email late last week:
 
 > ... I was inquiring to see if you would be able to find time either once a week or once every other week to explore and teach the boys some technology skills. Our schedule is flexible and I was thinking for about an hour. (I can pay you too. Or at least double a recipe to give your wife a night off from cooking!)
 
-This was sent to me by a family friend, with two middle school boys. Neither parent are tech-oriented, so they asked if I could help[^workout]. This is an incredible opportunity! Naturally I jumped at the chance to do _experimentations with them._
+This was sent to me by a family friend, with two middle school boys. Neither parent are tech-oriented, so they asked if I could help[^workout]. This is an incredible opportunity! Naturally I jumped at the chance to do _experiments with them._
 
 # So about those “Technology Skills”…
 
