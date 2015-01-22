@@ -2,7 +2,7 @@
 layout: post
 title: Exploratory Science and Technology Project
 Date: 2015-01-19
-categories: articles
+categories: articles technology-project
 tags: education learning experiments potato
 css: articles/est.css
 ---
