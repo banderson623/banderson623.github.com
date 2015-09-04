@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Brian Anderson, a bid for a School Counsel Seat.
+title: Brian Anderson, a bid for a School Board Seat.
 date: September, 2015
 ---
 
@@ -16,6 +16,9 @@ h1, h2 {
   text-align: left;
 }
 </style>
+
+<img src="/images/projects/gilbert/pirate-couple-crop.jpg" class="centered can_shrink" alt="Me and Allison dressing up" width="800px"/>
+
 
 Hello, I am **Brian Anderson**, and I would like to be your `Write In` choice for the upcoming Gilbert District School Board Election on Tuesday.
 
@@ -46,8 +49,8 @@ I had a few people ask me to run, and I said no. To be honest, I thought that my
 
 I distinctly heard two things from our new candidates:
 
-* Big agendas and
-* Very minimal experience working with our teachers and administrators.
+> * Big agendas and
+> * Very minimal experience working with our teachers and administrators.
 
 Two things that worried me. After talking with a few parents, staff and administrators today I realized I should try to be a write in candidate. Apparently other people have [succeeded at this](http://www.youcanwritein.com/history-write-in-candidates.php).
 
@@ -59,7 +62,10 @@ Actually building [internet advertisements](http://www.voxmedia.com/vox-advertis
 
 ## And, "Who Are You?"
 
-I am balding father of two young boys (Micah is 9 and Eli is 7 years old) and a husband to Allison Anderson (her age is less important). My family has been a part of the Gilbert district since our oldest was in Kindergarten in 2011, that makes it four years. I know not all that long. But hey, I think we've done some cool stuff in that short time.
+
+<img src="/images/projects/gilbert/pirates.jpg" class="centered can_shrink" alt="Me and my family dressing up" width="800px"/>
+
+I am balding father of two young boys (Micah is 9 and Eli is 7 years old) and a husband to Allison Anderson _(her age is less important)_. My family has been a part of the Gilbert district since our oldest was in Kindergarten in 2011, that makes it four years. I know, not all that long. But hey, I think we've done some cool stuff in that short time.
 
 Allison and I have loved the small class sizes and warm teachers of the elementary school since day one of kindergarten. Micah's teacher was full of smiles and hugs for the kids. She won us over and we started volunteering in the classroom as much as she'd let us (I did mostly quirky science experiments).
 
@@ -74,6 +80,7 @@ In fact, we enjoy this district so much, we moved to Gilbert in February of this
 **Most recently I've been a part of two larger planning committees:**
 
 1. Worked along side Chris and Layne Billings, Jason Holtan, Troy Staudt and few other parents to help with the High School's 1:1 ("one to one") plan. The 1:1 plan gives every student a laptop. The bulk of the work was to craft a plan than embraced the new communication and learning strategies enabled by students with computers.
+
 2. Over the last year I've been on the committee to revamp the way our district communicates with our parents, students and community. I worked side by side with very talented parents and all of the administration on crafting a strategy for effective and clear communication. We successfully design and launched the  Gilbert School App. (psst, you should download it for [iPhone, iPad](https://itunes.apple.com/us/app/gilbert-community-school-district/id993121618?mt=8) or [Google Android](https://play.google.com/store/apps/details?id=com.crescerance.GCSD&hl=en). We have also been hard at work on the upcoming redesign of our website, launching this Winter.
 
 I've coached youth soccer at the Heart of Iowa Soccer Club four years and coached both of my sons team. I even got suckered on to the Board for a stint.
