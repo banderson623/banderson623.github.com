@@ -15,6 +15,16 @@ h1, h2 {
   color: #B70101;
   text-align: left;
 }
+
+#google-form {
+  height:800px;
+}
+
+@media (max-width: 600px) {
+  #google-form {
+    height:1000px;
+  }
+}
 </style>
 
 <img src="/images/projects/gilbert/pirate-couple-crop.jpg" class="centered can_shrink" alt="Me and Allison dressing up" width="800px"/>
@@ -24,7 +34,7 @@ Hello, I am **Brian Anderson**, and I would like to be your `Write In` choice fo
 
 _I am not running to reform the district, I am running to support the strengths of what has been done before us, and help shepherd it into the next decade._
 
-I am running with the following goals:
+## I am running with the following goals:
 
 * I'd like to bring **clear, open, communication** of the school board's decisions and upcoming district changes that impact our families.
 
@@ -99,4 +109,10 @@ Of course there is room for change, but there is also a lot that we are doing we
 
 I'd appreciate your vote on Tuesday, September 8. Put in on your calendar and remember me: "Brian Anderson" (a pretty average person who enjoys our schools… no need to write anything more than my name though).
 
-You have questions or concerns? Please email me [brian@bitbyteyum.com](mailto:brian@bitbyteyum.com)
+## Got a Question?
+
+Please email me [brian@bitbyteyum.com](mailto:brian@bitbyteyum.com)
+
+Or you can fill out this form, it will send me an email.
+
+<iframe id="google-form" src="https://docs.google.com/forms/d/1A-u0TGH5MkZcmWWJf-49AlGlKG7bPMAVkj6g-YLmgQI/viewform?embedded=true" width="100%" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
