@@ -81,7 +81,7 @@ We were both asked to be on [District Advisory Committee (DAC)](http://gilbert.k
 
 In 2013 Allison began working for the Gilbert district as a short and long term sub. And then again in 2014 she was our [Elementary's FAST testing](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0CDEQFjACahUKEwjI79fVy9zHAhVECJIKHV8cDgM&url=http%3A%2F%2Fgilbert.k12.ia.us%2Felementary%2FEli%2520Parent%2520Presentation.pdf&usg=AFQjCNHMdTlkdMvsDyNWAk73Rj_0ADRpAA&sig2=Tdtp658rPhiFoU4-RXZUEw) Associate and lead reading intervention groups. She also taught in the Middle School, as a parttime Study Hall sergeant.
 
-This year she is now the administrative assistant for Paul Jacobson (High School Guidance Counselor) and Tim Pezzetti (Athletic Director "for your Gilbert Tigers!").
+This year she is now the administrative assistant for Paul Jacobson (High School Guidance Counselor) and Tim Pezzetti (Athletic Director _"for your Gilbert Tigers!"_).
 
 In fact, we enjoy this district so much, we moved to Gilbert in February of this year. We realized we were spending so much of our time in the schools and surrounding sports fields that it was just time to finally be a part of this small city. We live on a newly developed circle on the south side of Prairie View Drive (or PVD if you are a local).
 
@@ -91,7 +91,7 @@ In fact, we enjoy this district so much, we moved to Gilbert in February of this
 
 2. Over the last year I've been on the committee to revamp the way our district communicates with our parents, students and community. I worked side by side with very talented parents and all of the administration on crafting a strategy for effective and clear communication. We successfully design and launched the  Gilbert School App. (psst, you should download it for [iPhone, iPad](https://itunes.apple.com/us/app/gilbert-community-school-district/id993121618?mt=8) or [Google Android](https://play.google.com/store/apps/details?id=com.crescerance.GCSD&hl=en). We have also been hard at work on the upcoming redesign of our website, launching this Winter.
 
-I've coached youth soccer at the Heart of Iowa Soccer Club four years and coached both of my sons team. For the last three years I've been on the board
+I've coached youth soccer at the Heart of Iowa Soccer Club four years and coached both of my sons team, I even had a small stint on their board of directors.
 
 Our family is involved in soccer, football, baseball, volleyball and basketball youth sports.
 
@@ -111,6 +111,6 @@ I'd appreciate your vote on Tuesday, September 8. Put in on your calendar and re
 
 Please email me [brian@bitbyteyum.com](mailto:brian@bitbyteyum.com)
 
-Or you can fill out this form, it will send me an email.
+Or you can fill out this form and it will send me an email.
 
 <iframe id="google-form" src="https://docs.google.com/forms/d/1A-u0TGH5MkZcmWWJf-49AlGlKG7bPMAVkj6g-YLmgQI/viewform?embedded=true" width="100%" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
