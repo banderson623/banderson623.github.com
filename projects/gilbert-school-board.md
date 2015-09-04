@@ -36,20 +36,17 @@ _I am not running to reform the district, I am running to support the strengths 
 
 ## I am running with the following goals:
 
-* I'd like to bring **clear, open, communication** of the school board's decisions and upcoming district changes that impact our families.
+* I'd like to share **clear, open, communication** of the school board's decisions and upcoming district changes that impact our families.
 
 * I love Gilbert Schools, our teachers, administrators and families – **I want to preserve our values and intimacy as we continue to grow over the next 10 years.**
 
-* **Integration of learning and technology**. We need a holistic plan for employing technology to aid in our kids learning, I want to be a part of building it. Technology does not solve everything, nor does it destroy everything. Technology is everywhere, lets make sure we have a plan to help our families, teachers and students make the most of it.
+* **Integration of learning and technology**. We need a holistic plan for employing technology to aid in our children's learning, I want to be a part of building it. Technology does not solve everything, nor does it destroy everything. Computers are everywhere, lets make sure we have a plan to help our families, teachers and students make the most of these tools.
 
 * I want to **encourage our four district buildings to work with one another, the neighborhoods and the city.**  We have a rich opportunity for our students to learn through serving those around them, lets do it!
 
 * **Find creative ways to fund** fine arts, extra circular activities and clubs. We have a great, engaged parent-base – I want to find ways to educate our kids beyond the traditional subjects, even if the state is unwilling to pay.
 
-<!-- * **I want to have a conversation about how we engage the different cultures, races, financial means and backgrounds in our schools to maximize learning and inclusion.** There are unmet needs and opportunities for us to learn from those who are different than us. Let's be honest with each other and learn to befriend and serve those who are different. Whether this is cultural, financial or racial diversity – I want to see our kids and parents be able to have honest conversations about the world around us, and to do our part to make it better. -->
-
-* **I'd love to start a handful of afterschool programs**. Wouldn't it be great to have some of the high tech parents and Iowa State students run a programming workshop?
-
+* **I'd love to start a handful of after school programs**. Wouldn't it be great to have some of the high tech parents and Iowa State students run a programming workshop?
 
 ## You might be asking yourself: "why didn't he officially run?"
 
@@ -68,10 +65,9 @@ Two things that worried me. After talking with a few parents, staff and administ
 
 I work on internet ads. I build them. You might actually hate me. Don't worry, my job is to make them less annoying and more delightful.
 
-Actually building [internet advertisements](http://www.voxmedia.com/vox-advertising) for a [large publisher](http://www.voxmedia.com/who-we-are) requires pragmatic compromises: what will the editorial team think, how will our readers respond, will our [big advertisers](http://www.voxmedia.com/vox-advertising#sponsorships) be happy, our we meeting our quarterly financial numbers, are the ads preforming well on handheld devices, … ? There are a myriad of conflicting goals – understand them all and building systems to accomplish them is a lot of work. This is what I do every day. I feel like this is quite similar to all the individual interests, goals and ideals that all of our families bring to the district. **I want to keep our district great, improve what we can, and preserve the caring-spirit that is the bedrock of our district**
+Actually building [internet advertisements](http://www.voxmedia.com/vox-advertising) for a [large publisher](http://www.voxmedia.com/who-we-are) requires pragmatic compromises: what will the editorial team think, how will our readers respond, will our [big advertisers](http://www.voxmedia.com/vox-advertising#sponsorships) be happy, our we meeting our quarterly financial numbers, are the ads preforming well on handheld devices, … ? There are a myriad of conflicting goals – understand them and building systems to accomplish them is difficult. This is what I do every day. I feel like this is quite similar to all the individual interests, goals and ideals that all of our families bring to the district. **I want to keep our district great, improve what we can, and preserve the caring-spirit that is the bedrock of our district**
 
 ## And, "Who Are You?"
-
 
 <img src="/images/projects/gilbert/pirates.jpg" class="centered can_shrink" alt="Me and my family dressing up" width="800px"/>
 
