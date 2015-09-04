@@ -34,7 +34,7 @@ I am running with the following goals:
 
 * I want to **encourage our four district buildings to work with one another, the neighborhoods and the city.**  We have a rich opportunity for our students to learn through serving those around them, lets do it!
 
-* **Find creative ways to fund** fine arts, extra circular activities and clubs. We have a great, engaged parent-base – lets find ways to education our kids beyond the traditional subjects, even if the state is unwilling to pay.
+* **Find creative ways to fund** fine arts, extra circular activities and clubs. We have a great, engaged parent-base – I want to find ways to educate our kids beyond the traditional subjects, even if the state is unwilling to pay.
 
 <!-- * **I want to have a conversation about how we engage the different cultures, races, financial means and backgrounds in our schools to maximize learning and inclusion.** There are unmet needs and opportunities for us to learn from those who are different than us. Let's be honest with each other and learn to befriend and serve those who are different. Whether this is cultural, financial or racial diversity – I want to see our kids and parents be able to have honest conversations about the world around us, and to do our part to make it better. -->
 
