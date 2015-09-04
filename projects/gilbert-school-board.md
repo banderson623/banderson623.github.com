@@ -83,7 +83,7 @@ The following year (and a few more after that) Allison became the Junior Varsity
 
 We were both asked to be on [District Advisory Committee (DAC)](http://gilbert.k12.ia.us/district/dictrict-advisory-committee-dac) to represent the Elementary school. Following that I was asked to be on the Gilbert School Improvement Advisory Committee (SIAC) which worked alongside the administration and school board to establish long term education goals.
 
-In 2013 Allison began working for the Gilbert district as a short and long term sub. And then again in 2014 she was our [Elementary's FAST testing](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0CDEQFjACahUKEwjI79fVy9zHAhVECJIKHV8cDgM&url=http%3A%2F%2Fgilbert.k12.ia.us%2Felementary%2FEli%2520Parent%2520Presentation.pdf&usg=AFQjCNHMdTlkdMvsDyNWAk73Rj_0ADRpAA&sig2=Tdtp658rPhiFoU4-RXZUEw) Associate and lead reading intervention groups. She also taught in the Middle School, as a parttime Study Hall sergeant.
+In 2013 Allison began working for the Gilbert district as a short and long term sub. And then again in 2014 she was our [Elementary's FAST testing](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0CDEQFjACahUKEwjI79fVy9zHAhVECJIKHV8cDgM&url=http%3A%2F%2Fgilbert.k12.ia.us%2Felementary%2FEli%2520Parent%2520Presentation.pdf&usg=AFQjCNHMdTlkdMvsDyNWAk73Rj_0ADRpAA&sig2=Tdtp658rPhiFoU4-RXZUEw) Associate and leading reading intervention groups. She also taught in the Middle School, as a parttime Study Hall sergeant.
 
 This year she is now the administrative assistant for Paul Jacobson (High School Guidance Counselor) and Tim Pezzetti (Athletic Director _"for your Gilbert Tigers!"_).
 
