@@ -75,7 +75,7 @@ Actually, building [internet advertisements](http://www.voxmedia.com/vox-adverti
 
 <img src="/images/projects/gilbert/pirates-crop.jpg" class="centered can_shrink" alt="Me and my family dressing up" width="800px"/>
 
-I am a balding father of two young boys (Micah is 9 and Eli is 7 years old) and a husband to Allison Anderson _(her age is less important)_. My family has been a part of the Gilbert district since our oldest was in Kindergarten in 2011, that makes it four years. I know, not all that long. But hey, I think we've done some cool stuff in that short time.
+I am a balding father of two young boys (Micah is 9 and Eli is 7 years old) and a husband to Allison Anderson _(her age is less important)_. My family has been a part of the Gilbert district since our oldest was in Kindergarten in 2011, that makes it four years. I think we've done some cool stuff in that short amount of time.
 
 Allison and I have loved the small class sizes and warm teachers of the elementary school since day one of kindergarten. Micah's teacher was full of smiles and hugs for the kids. She won us over and we started volunteering in the classroom as much as she'd let us (I did mostly quirky science experiments).
 
