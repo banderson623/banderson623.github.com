@@ -101,6 +101,13 @@ Our family is involved in soccer, football, baseball, volleyball and basketball 
 
 Allison has served on the Gilbert Education Foundation. She helped raise money and plan the annual Rock Hop for the last two years. (there might be horrible pictures floating around of us at the annual Rock Hop dressed up as pirates).
 
+
+<img src="/images/projects/gilbert/science.jpg" class="centered can_shrink" alt="About to drop some mentos in a diet coke!" width="800px"/>
+
+I am about to drop some mentos in a diet coke! The kids love this (most adults do too)!
+
+<iframe src="https://player.vimeo.com/video/96846412" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Remind me again why I should vote for you?
 
 Our family has been involved in volunteer and paid positions in the classrooms and district, we've committed our lives to this school and town.  We love education (in and outside the classroom) and want to see the character and values of this District thrive in the years to come.
@@ -109,7 +116,7 @@ _I am not interested in large reform, I want patient thoughtful planning to addr
 
 Of course there is room for change, but there is also a lot that we are doing well. I am up for the challenge of carrying our district through the following 4 years.
 
-I'd appreciate your vote on Tuesday, September 8. Put in on your calendar and remember me: "Brian Anderson" (a pretty average person who enjoys our schools… no need to write anything more than my name though).
+I'd appreciate your vote on **Tuesday, September 8, from noon to 8pm**. Put in on your calendar and remember me: `"Brian Anderson"` (a pretty average person who enjoys our schools… no need to write anything more than my name though).
 
 ## Got a Question?
 
