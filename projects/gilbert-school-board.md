@@ -104,7 +104,7 @@ Allison has served on the Gilbert Education Foundation. She helped raise money a
 
 <img src="/images/projects/gilbert/science.jpg" class="centered can_shrink" alt="About to drop some mentos in a diet coke!" width="800px"/>
 
-I am about to drop some mentos in a diet coke! The kids love this (most adults do too)!
+I am about to drop some mentos in a diet coke. The kids love this (most adults do too)!
 
 <iframe src="https://player.vimeo.com/video/96846412" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
