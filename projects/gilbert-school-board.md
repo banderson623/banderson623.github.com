@@ -24,6 +24,10 @@ h1, h2 {
   #google-form {
     height:1000px;
   }
+  #project .can_shrink {
+    width:100%;
+  }
+
 }
 </style>
 
