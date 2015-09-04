@@ -116,7 +116,7 @@ _I am not interested in large reform, I want patient thoughtful planning to addr
 
 Of course there is room for change, but there is also a lot that we are doing well. I am up for the challenge of carrying our district through the following 4 years.
 
-I'd appreciate your vote on **Tuesday, September 8, from noon to 8pm**. Put in on your calendar and remember me: `"Brian Anderson"` (a pretty average person who enjoys our schools… no need to write anything more than my name though).
+I'd appreciate your vote on **Tuesday, September 8, from noon to 8pm**. Put it on your calendar and remember me: `"Brian Anderson"` (a pretty average person who enjoys our schools… no need to write anything more than my name though).
 
 ## Got a Question?
 
