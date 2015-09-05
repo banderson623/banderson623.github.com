@@ -20,6 +20,15 @@ h1, h2 {
   height:800px;
 }
 
+.updates {
+  background-color:#eee;
+  padding: 1rem 0.5rem;
+}
+
+.updates ul {
+  padding-left:2rem;
+}
+
 @media (max-width: 600px) {
   #google-form {
     height:1000px;
@@ -51,6 +60,17 @@ _I am not running to reform the district. I am running to support the strengths 
 * **Find creative ways to fund** fine arts, extra curricular activities and clubs. We have a great, engaged parent-base – I want to find ways to educate our kids beyond the traditional subjects, even if the state is unwilling to pay.
 
 * **I'd love to start a handful of after school programs**. Wouldn't it be great to have some of the high tech parents and Iowa State students run a programming workshop?
+
+<div class='updates'>
+
+<h3>Updates</h3>
+
+<ul>
+  <li>A few friends have made <a href="/articles/2015/09/04/starting-my-run/">yard signs</a> for my write in run.</li>
+
+  <li>The <a href="http://amestrib.com/news/write-candidate-seeks-seat-gilbert-school-board">Ames Tribune is covering my run</a> and <a href="/articles/2015/09/05/ames-tribune-article/">I've added a few of my own thoughts</a>.</li>
+</ul>
+</div>
 
 ## You might be asking yourself: "why didn't he officially run?"
 
