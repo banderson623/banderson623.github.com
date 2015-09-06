@@ -16,7 +16,7 @@ tags: questions school board candidacy
   }
 </style>
 
-One of the ideas I had when I started [running for school board](/projects/gilbert-school-board/) (three days ago), was to allow for anonymous questions to be submitted. I've received a some really great questions.
+One of the ideas I had when I started [running for school board](/projects/gilbert-school-board/) _(three days ago)_ was to allow for anonymous questions to be submitted. I've received a some really great questions.
 
 _Here is one of them that I want to respond to publicly..._
 
