@@ -37,6 +37,9 @@ h1, h2 {
     width:100%;
   }
 
+  .updates ul {
+    padding-left: 1rem;
+  }
 }
 </style>
 
@@ -46,6 +49,8 @@ h1, h2 {
     <li>A few friends have made <a href="/articles/2015/09/04/starting-my-run/">yard signs</a> for my write in run.</li>
 
     <li>The <a href="http://amestrib.com/news/write-candidate-seeks-seat-gilbert-school-board">Ames Tribune is covering my run</a> and <a href="/articles/2015/09/05/ames-tribune-article/">I've added a few of my own thoughts</a>.</li>
+
+    <li><a href="/articles/2015/09/06/question-about-teachers/">Question: Will you listen to teachers?</a></li>
   </ul>
 </div>
 
