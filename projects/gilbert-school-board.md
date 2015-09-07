@@ -38,7 +38,7 @@ h1, h2 {
   }
 
   .updates ul {
-    padding-left: 1rem;
+    padding-left: 0rem;
   }
 }
 </style>
@@ -50,7 +50,9 @@ h1, h2 {
 
     <li>The <a href="http://amestrib.com/news/write-candidate-seeks-seat-gilbert-school-board">Ames Tribune is covering my run</a> and <a href="/articles/2015/09/05/ames-tribune-article/">I've added a few of my own thoughts</a>.</li>
 
-    <li><a href="/articles/2015/09/06/question-about-teachers/">Question: Will you listen to teachers?</a></li>
+    <li>Question: <a href="/articles/2015/09/06/question-about-teachers">Will you listen to teachers?</a></li>
+
+    <li>Another excellent write in question: <a href="/articles/2015/09/06/question-diversity">What about diversity?</a></li>
   </ul>
 </div>
 
