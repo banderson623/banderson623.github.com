@@ -26,7 +26,7 @@ What a great question!
 
 Since our kids started school in the district, I've enjoyed talking with our teachers and administrators. These conversations normally occur in the classroom, summer grill outs and youth sports fields. These have been more frequent, after we've moved to the city of Gilbert.
 
-If I win a seat on the school board, **I plan on spending one extended lunch time per week in the schools**. I could talk with the teachers in all four buildings every month. In addition to that, I would like to schedule time with individual teachers when it works for them. I want to hear the teachers' ideas, concerns and needs. I will try to make time for every teacher who would like to share ideas with me.
+If I win a seat on the school board, **I plan on spending one extended lunch  per week in the schools**. I could talk with the teachers in all four buildings every month. In addition to that, I would like to schedule time with individual teachers when it works for them. I want to hear the teachers' ideas, concerns and needs. I will try to make time for every teacher who would like to share ideas with me.
 
 We have great associates and teachers who have committed themselves to teaching here in our district — what is their perspective? I want to know how the school board can understand their views, listen to their ideas, and partner with them to continue facilitate great education.
 
