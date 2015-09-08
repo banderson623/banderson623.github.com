@@ -53,6 +53,8 @@ h1, h2 {
     <li>Question: <a href="/articles/2015/09/06/question-about-teachers">Will you listen to teachers?</a></li>
 
     <li>Another excellent write in question: <a href="/articles/2015/09/06/question-diversity">What about diversity?</a></li>
+
+    <li>Question: <a href="/articles/2015/09/07/question-values/">What specific values</a> do I want to preserve in the district?</li>
   </ul>
 </div>
 
