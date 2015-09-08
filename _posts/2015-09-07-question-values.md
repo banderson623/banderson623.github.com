@@ -24,7 +24,7 @@ Thanks for asking! Here are the things I love about our district:
 
 * **Warm, caring and engaged teachers.** We have so many dedicated teachers who are committed to our children and the district. They spend countless hours serving in and outside the classroom.
 
-* **The forward thinking, integrity, and leadership of our four principals.** Much like the teachers they work tirelessly to make sure each teacher has the resources they need to succeed. (I have spent a lot of time with them in various committees and I know they are devoted to making their grades are a place where learning thrives, parents are involved and kids are growing in character).
+* **The forward thinking, integrity, and leadership of our four principals.** Much like the teachers they work tirelessly to make sure each teacher has the resources they need to succeed. (I have spent a lot of time with them in various committees and I know they are devoted to making their classrooms a place where learning thrives, parents are involved and kids are growing in character).
 
 * **An intimate integration of schools and families.** I appreciate the accessibility of the teachers and staff. I enjoy that the principals are reachable and know my children. They know my name and are thankful for my involvement. I receive personal emails about how my sons are behaving and performing. Likewise I can share with our teachers my concerns and goals for my children. Even though Gilbert has continued to grow from it's single-building history, I desperately want to try our best to keep a familiar, welcoming, feel. We might not be as small as we once were, but we can try to preserve the welcoming and communal spirit.
 
