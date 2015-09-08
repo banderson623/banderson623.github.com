@@ -16,7 +16,7 @@ tags: questions school board candidacy
   }
 </style>
 
-I am continuing the series of answering questions that people have written in. Please keep them coming, I am serious about [Increasing the quantity and quality of our communication](/projects/gilbert-school-board/). Here is question from an old board member, who gave me permission to share it.
+I am continuing the series of answering questions that people have written in. Please keep them coming, I am serious about [Increasing the quantity and quality of our communication](/projects/gilbert-school-board/). Here is two part question that is very important.
 
 ## What are the "values" you want to preserve?
 
