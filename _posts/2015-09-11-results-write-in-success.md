@@ -6,7 +6,7 @@ categories: articles
 tags: questions school board candidacy
 ---
 
-Wow, I am speachless, I just checked the [Story County Election](http://www.storycountyiowa.gov/index.aspx?NID=853) site and I see they've posted the final results.
+Wow, I am speechless, I just checked the [Story County Election](http://www.storycountyiowa.gov/index.aspx?NID=853) site and I see they've posted the final results.
 
 <img src="/images/local-paper/official-results.jpg" class="centered can_shrink" alt="Official results, I won a seat!" width="800px"/>
 
