@@ -148,10 +148,25 @@ Of course there is room for change, but there is also a lot that we are doing we
 
 I'd appreciate your vote on **Tuesday, September 8, from noon to 8pm**. Put it on your calendar and remember me: `"Brian Anderson"` (a pretty average person who enjoys our schools… no need to write anything more than my name though).
 
-## Got a Question?
+## Sign up for my newsletter to stay informed
 
-Please email me [brian@bitbyteyum.com](mailto:brian@bitbyteyum.com)
+I've started a once or twice monthly newsletter to share what decisions are coming up for the district.
 
-Or you can fill out this form and it will send me an email.
+> My goal is to keep you up to date and informed with the latest information on Gilbert School Districts Board Meeting agenda and decisions. (You will receive one, maybe two, emails a month.)
 
-<iframe id="google-form" src="https://docs.google.com/forms/d/1A-u0TGH5MkZcmWWJf-49AlGlKG7bPMAVkj6g-YLmgQI/viewform?embedded=true" width="100%" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Sound good? _(Or just love more email?)_ Head on over to the [newsletter site  to sign up.](https://tinyletter.com/brian-in-gilbert)
+
+<script type="text/javascript">
+  var trackIt = function(url){
+    ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+      function () {document.location = url;}
+    });
+  }
+
+  $('a').on('click', function(){
+    if(typeof ga !== "undefined"){
+      trackIt($(this).attr('href'));
+      return false;
+    }
+  });
+</script>

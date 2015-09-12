@@ -21,8 +21,8 @@
 
         <!-- My favorite Javascript Library -->
         <script type="text/javascript" src="/javascripts/zepto.min.js"></script>
-        
-        
+
+
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
@@ -55,17 +55,17 @@
               <a class="extra" href="/projects/" title="Projects I've worked on">Projects</a>
               <!-- <a class="extra" href="/resume/">Resume</a> -->
               <!-- <a class="extra" href="/portfolio.html">portfolio</a> -->
-              
+
             </div>
-     
+
                 {{ content }}
 
             <footer>
               <div class="contact">
-                <p>I am 
-                  <a href="mailto:Brian@BitByteYum.com">Brian Anderson</a> and can be found at 
-                   and 
-                  <a href="http://twitter.com/banderson623/">twitter</a>, 
+                <p>I am
+                  <a href="mailto:Brian@BitByteYum.com">Brian Anderson</a> and can be found at
+                   and
+                  <a href="http://twitter.com/banderson623/">twitter</a>,
                   <a href="http://github.com/banderson623/">github</a> and
                   <a href="http://www.linkedin.com/in/banderson623">linkedIn</a>.
                 </p>
@@ -75,9 +75,9 @@
         </div> <!-- /container -->
 
     </body>
-    
+
     {% if site.lsi == false %}
-    
+
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -88,22 +88,7 @@
       ga('send', 'pageview');
 
     </script>
-    <script type="text/javascript">
-      var _sf_async_config = { uid: 50141, domain: 'bitbyteyum.com', useCanonical: true };
-      (function() {
-        function loadChartbeat() {
-          window._sf_endpt = (new Date()).getTime();
-          var e = document.createElement('script');
-          e.setAttribute('language', 'javascript');
-          e.setAttribute('type', 'text/javascript');
-          e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
-          document.body.appendChild(e);
-        };
-        var oldonload = window.onload;
-        window.onload = (typeof window.onload != 'function') ?
-          loadChartbeat : function() { oldonload(); loadChartbeat(); };
-      })();
-    </script>
+
     {% endif %}
-    
+
 </html>

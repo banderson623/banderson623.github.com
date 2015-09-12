@@ -1,5 +1,5 @@
 Zepto(function($){
-  
+
   function isScrolledIntoView(element){
       var viewTop =    $(window).scrollTop();
       var viewBottom = viewTop + $(window).height();
@@ -10,10 +10,10 @@ Zepto(function($){
       return ((elementBottom >= viewTop) && (elementTop <= viewBottom)
         && (elementBottom <= viewBottom) &&  (elementTop >= viewTop) );
   }
-  
+
   // Fires when document scrolls, don't need to check that often
   window._scroll_check = false;
-  
+
   var randomIntegerBetween = function(lowest,highest){
     return (Math.ceil(Math.random()*highest) % (highest-lowest+1)) + lowest;
   }
@@ -26,7 +26,7 @@ Zepto(function($){
       wiggleForever(element);
     },duration+100);
   }
-  
+
   var wiggling = function(element,duration){
     var heightWidth = randomIntegerBetween(75,150) + 'px';
     $(element).animate({
@@ -36,14 +36,14 @@ Zepto(function($){
       "width": heightWidth
     },duration, 'ease-in-out');
   }
-  
+
   placeWigglesRandomly = function(){
     $('#balanced .circle').each(function(i,el){
       wiggling(el,0)
     })
   }
   placeWigglesRandomly();
-  
+
   var bubble = function(element,duration){
     var heightWidth = randomIntegerBetween(20,40) + 'px';
     $(element).animate({
@@ -60,7 +60,7 @@ Zepto(function($){
     })
   };
   placeRandomly();
-  
+
   var bubbleForever = function(element){
     var duration = randomIntegerBetween(5000,10000);
     bubble(element,duration)
@@ -69,7 +69,7 @@ Zepto(function($){
       bubbleForever(element,duration);
     },duration+100);
   }
-  
+
   startBubbling = function(){
     if(!window._is_bubbling){
       setTimeout(function(){
@@ -80,12 +80,12 @@ Zepto(function($){
         window._is_bubbling = true;
       },2000);
     }
-    
+
   }
-  
+
   startWiggling = function(){
     if(!window._is_wiggling){
-      
+
       // Even once you scroll give it a moment...
       setTimeout(function(){
         $("#balanced .circle").animate({
@@ -95,9 +95,9 @@ Zepto(function($){
           "height":"100px",
           "width":"100px"
         },4000, 'ease-in-out');
-        
+
       },750);
-      
+
       setTimeout(function(){
         var circles = $('#balanced .circle');
         for(var i = 0; i < circles.length; i++){
@@ -105,10 +105,10 @@ Zepto(function($){
         }
         window._is_wiggling = true;
       },8000);
-      
+
     }
   }
-  
+
   $(document).ready(function(){
     if(isScrolledIntoView($("#test-tube")) && $(window).width() > 799){
       startBubbling();
@@ -124,7 +124,7 @@ Zepto(function($){
       if(isScrolledIntoView($("#balanced"))){
         startWiggling();
       }
-      
+
       if(isScrolledIntoView($("#test-tube")) && $(window).width() > 799){
         startBubbling();
       }
