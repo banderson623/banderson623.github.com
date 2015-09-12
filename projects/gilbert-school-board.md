@@ -29,6 +29,7 @@ h1, h2 {
   padding-left:2rem;
 }
 
+
 @media (max-width: 600px) {
   #google-form {
     height:1000px;
@@ -40,6 +41,7 @@ h1, h2 {
   .updates ul {
     padding-left: 0rem;
   }
+
 }
 </style>
 
@@ -59,6 +61,9 @@ h1, h2 {
     <li>Question: <a href="/articles/2015/09/07/question-values/">What specific values</a> do I want to preserve in the district?</li>
   </ul>
 </div>
+
+
+# Unbelievable and Thank you! [I won a seat as a write-in candidate!](/articles/2015/09/11/results-write-in-success/)
 
 
 <img src="/images/projects/gilbert/pirate-couple-crop.jpg" class="centered can_shrink" alt="Me and Allison dressing up" width="800px"/>
