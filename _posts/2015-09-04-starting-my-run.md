@@ -3,7 +3,7 @@ layout: post
 title: The start of my run for School Board
 Date: 2015-09-04
 categories: articles
-tags: local paper journalism candidacy
+tags: local paper journalism candidacy gsb
 ---
 
 On Friday morning [I started my write-in campaign](/projects/gilbert-school-board/) for school board. By 10am I had a handful of texts and dozens of emails from families pledging their support. It was an overwhelming response.

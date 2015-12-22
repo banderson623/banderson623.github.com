@@ -3,7 +3,7 @@ layout: post
 title: Ames Tribune is covering my run
 Date: 2015-09-05
 categories: articles
-tags: local paper journalism candidacy
+tags: local paper journalism candidacy gsb
 ---
 
 Sarina Rhinehart from the [Ames Tribune](http://amestrib.com) called me Friday for a phone interview. I was nervous, being on the record with a reporter is very different than talking with neighbors. After 30 minutes, I was able talk my way through [why I am running](/projects/gilbert-school-board/). I felt like I was able explain my position while still honoring the others running in this race.

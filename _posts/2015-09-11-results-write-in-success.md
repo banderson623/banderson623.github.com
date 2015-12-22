@@ -3,7 +3,7 @@ layout: post
 title: Write In Success!
 Date: 2015-09-11
 categories: articles
-tags: questions school board candidacy
+tags: questions school board candidacy gsb
 ---
 
 Wow, I am speechless, I just checked the [Story County Election](http://www.storycountyiowa.gov/index.aspx?NID=853) site and I see they've posted the final results.

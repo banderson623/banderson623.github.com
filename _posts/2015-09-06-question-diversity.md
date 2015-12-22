@@ -3,7 +3,7 @@ layout: post
 title: Question – What about diversity?
 Date: 2015-09-06
 categories: articles
-tags: questions school board candidacy
+tags: questions school board candidacy gsb
 ---
 
 Like my previous post, when I started [running for school board](/projects/gilbert-school-board/), I asked for questions to be submitted. **Here is a question that was a fantastic!** ...And this is an example of a topic I feel like our district has not sufficiently addressed. [^critique]

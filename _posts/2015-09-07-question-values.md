@@ -3,7 +3,7 @@ layout: post
 title: Question – What Values?
 Date: 2015-09-07
 categories: articles
-tags: questions school board candidacy
+tags: questions school board candidacy gsb
 ---
 
 <style type="text/css">

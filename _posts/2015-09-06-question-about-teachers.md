@@ -3,7 +3,7 @@ layout: post
 title: Question – Staying Connected in the classroom
 Date: 2015-09-06
 categories: articles
-tags: questions school board candidacy
+tags: questions school board candidacy gsb
 ---
 
 <style type="text/css">

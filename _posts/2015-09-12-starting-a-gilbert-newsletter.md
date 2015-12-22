@@ -3,7 +3,7 @@ layout: post
 title: Starting a Gilbert District Newsletter
 Date: 2015-09-12
 categories: articles
-tags: questions school board candidacy
+tags: questions school board candidacy gsb
 ---
 
 <p style="text-align:center;"><em>Maybe you don't want to read all this...  you can just <a href="https://tinyletter.com/brian-in-gilbert">sign up for the newsletter</a>.</em></p>
